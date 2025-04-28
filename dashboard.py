@@ -51,3 +51,7 @@ def dashboard():
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=5000)
+
+@app.route('/no-data')
+def no_data():
+    return render_template('no_data.html')
