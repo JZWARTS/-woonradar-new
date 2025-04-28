@@ -8,3 +8,9 @@ services:
     envVars:
       - key: FLASK_ENV
         value: production
+
+  - type: cron
+    name: woonradar-scraper
+    env: python
+    schedule: "0 */4 * * *"
+    command: python scraper.py
