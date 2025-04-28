@@ -18,10 +18,25 @@
             color: #7f8c8d;
         }
     </style>
+    <script>
+        // Maximaal 2 minuten wachten = 120 seconden
+        var maxTime = 120; 
+        var interval = 15; // elke 15 seconden vernieuwen
+
+        // Tel hoe vaak al vernieuwd
+        var timesRefreshed = sessionStorage.getItem('refreshCount') || 0;
+        timesRefreshed++;
+        sessionStorage.setItem('refreshCount', timesRefreshed);
+
+        // Check of we te vaak ververst hebben
+        if (timesRefreshed * interval >= maxTime) {
+            window.location.href = "/no-data"; // stuur naar no-data pagina
+        }
+    </script>
 </head>
 <body>
     <h1>🏡 Woon Radar</h1>
     <p>We zijn nieuwe woningen aan het ophalen... 🔄</p>
-    <p>Even geduld a.u.b. De pagina wordt automatisch vernieuwd!</p>
+    <p>Even geduld a.u.b. De pagina wordt elke 15 seconden automatisch vernieuwd.</p>
 </body>
 </html>
