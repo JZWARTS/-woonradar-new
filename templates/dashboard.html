@@ -1,61 +1,48 @@
 <!DOCTYPE html>
-<html lang="en" data-bs-theme="dark">
+<html lang="nl">
 <head>
     <meta charset="UTF-8">
-    <title>🏡 WoonRadar</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>WoonRadar Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <nav class="navbar navbar-dark bg-dark mb-4">
-        <div class="container-fluid">
-            <span class="navbar-brand mb-0 h1">🏡 WoonRadar</span>
-        </div>
-    </nav>
+    <h1>🏠 Overzicht van woningen</h1>
 
-    <div class="container">
-        <form method="POST" class="row g-3 mb-4">
-            <div class="col-md-3">
-                <input type="text" name="city" class="form-control" placeholder="City">
-            </div>
-            <div class="col-md-2">
-                <input type="number" name="min_price" class="form-control" placeholder="Min Price">
-            </div>
-            <div class="col-md-2">
-                <input type="number" name="max_price" class="form-control" placeholder="Max Price">
-            </div>
-            <div class="col-md-2">
-                <input type="number" name="min_size" class="form-control" placeholder="Min Size (m²)">
-            </div>
-            <div class="col-md-2">
-                <input type="text" name="energy_label" class="form-control" placeholder="Energy Label">
-            </div>
-            <div class="col-md-1">
-                <button type="submit" class="btn btn-primary w-100">Search 🔍</button>
-            </div>
-        </form>
-
-        <div class="row">
-            {% for house in houses %}
-            <div class="col-md-4 mb-4">
-                <div class="card h-100 bg-dark text-white border-primary">
-                    <img src="{{ house[7] }}" class="card-img-top" alt="House Image" style="height: 200px; object-fit: cover;">
-                    <div class="card-body">
-                        <h5 class="card-title">{{ house[1] }}</h5>
-                        <p class="card-text">
-                            💰 €{{ house[2] }}<br>
-                            📍 {{ house[3] }}<br>
-                            📏 {{ house[4] }} m²<br>
-                            ♻️ {{ house[5] }}<br>
-                            🌳 {{ house[6] }}
-                        </p>
-                        <a href="{{ house[8] }}" target="_blank" class="btn btn-primary w-100">View Listing 🔗</a>
-                    </div>
-                </div>
-            </div>
-            {% endfor %}
-        </div>
-    </div>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    {% if houses %}
+        <table>
+            <thead>
+                <tr>
+                    <th>Titel</th>
+                    <th>Prijs</th>
+                    <th>Adres</th>
+                    <th>Oppervlakte</th>
+                    <th>Energielabel</th>
+                    <th>Tuin/Terras</th>
+                    <th>Afbeelding</th>
+                    <th>Provider</th>
+                    <th>Datum</th>
+                    <th>Link</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for h in houses %}
+                <tr>
+                    <td>{{ h.title }}</td>
+                    <td>€ {{ "{:,}".format(h.price).replace(",", ".") }}</td>
+                    <td>{{ h.address }}</td>
+                    <td>{{ h.size }} m²</td>
+                    <td>{{ h.energy_label }}</td>
+                    <td>{{ h.garden_terrace }}</td>
+                    <td><img src="{{ h.image_url }}" alt="foto"></td>
+                    <td>{{ h.provider }}</td>
+                    <td>{{ h.date_scraped }}</td>
+                    <td><a href="{{ h.link }}" target="_blank">Bekijk</a></td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% else %}
+        <p style="text-align:center;">Geen woningen gevonden.</p>
+    {% endif %}
 </body>
 </html>
