@@ -16,7 +16,7 @@ plaats_naar_provincie = {
     "Rotterdam": "Zuid-Holland",
     "Arnhem": "Gelderland",
     "Zwolle": "Overijssel",
-    # Voeg zelf meer plaatsen toe als je wilt!
+    # ➔ Voeg hier nog meer plaatsen toe als je wilt!
 }
 
 def extract_provincie(address):
@@ -29,24 +29,26 @@ def dashboard():
     provincie_filter = request.args.get("provincie")
     sortering = request.args.get("sortering")
 
-    # Laad huizen
+    # 🏠 Huizen inladen
     try:
         with open("static/data.json", encoding="utf-8") as f:
             houses = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         houses = []
 
-    # Voeg provincie toe per huis
+    # ➔ Provincie toevoegen aan elk huis
     for house in houses:
         house["provincie"] = extract_provincie(house.get("address", ""))
 
-    # Filteren op provincie
+    # ➔ Filteren op provincie
     if provincie_filter:
         houses = [h for h in houses if h.get("provincie") == provincie_filter]
 
-    # Sorteren op prijs
+    # ➔ Sorteren op prijs
     if sortering == "prijs_asc":
         houses.sort(key=lambda h: h.get("price") if h.get("price") else 0)
+    elif sortering == "prijs_desc":
+        houses.sort(key=lambda h: h.get("price") if h.get("price") else 0, reverse=True)
 
     return render_template("dashboard.html", houses=houses, selected_provincie=provincie_filter, selected_sortering=sortering)
 

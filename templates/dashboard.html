@@ -8,7 +8,7 @@
 <body>
     <h1>🏠 Overzicht van woningen</h1>
 
-    <!-- 🔥 Nieuw: Filters voor provincie en prijs -->
+    <!-- 🔥 Filters voor provincie en prijs -->
     <form method="get" style="margin-bottom: 20px;">
         <label for="provincie">Filter op provincie:</label>
         <select name="provincie" id="provincie">
@@ -24,6 +24,7 @@
         <select name="sortering" id="sortering">
             <option value="">Standaard</option>
             <option value="prijs_asc" {% if selected_sortering == 'prijs_asc' %}selected{% endif %}>Prijs laag-hoog</option>
+            <option value="prijs_desc" {% if selected_sortering == 'prijs_desc' %}selected{% endif %}>Prijs hoog-laag</option>
         </select>
 
         <button type="submit">Filter toepassen</button>
