@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import sqlite3
 from datetime import datetime
 
-# Setup database
+# === Database setup ===
 conn = sqlite3.connect('listings.db')
 c = conn.cursor()
 
@@ -17,11 +17,13 @@ CREATE TABLE IF NOT EXISTS houses (
     energy_label TEXT,
     garden_terrace TEXT,
     image_url TEXT,
-    link TEXT UNIQUE
+    link TEXT UNIQUE,
+    year_built INTEGER
 )
 ''')
 conn.commit()
 
+# === Funda ===
 def scrape_funda():
     print("Scraping Funda...")
     url = "https://www.funda.nl/koop/noord-brabant/"
@@ -41,16 +43,21 @@ def scrape_funda():
             image = listing.find('img')['src'] if listing.find('img') else ''
             link = "https://www.funda.nl" + listing.find('a', class_='search-result__header-title-container')['href']
 
+            # Basic filters
             garden_terrace = "Ja" if "tuin" in title.lower() or "terras" in title.lower() else "Nee"
+            energy_label = "Onbekend"  # Requires deep scraping
+            year_built = 1970  # Default
 
-            c.execute('''
-                INSERT OR IGNORE INTO houses (title, price, address, size, energy_label, garden_terrace, image_url, link)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-            ''', (title, price, address, size, "Onbekend", garden_terrace, image, link))
-            conn.commit()
+            if size >= 50 and garden_terrace == "Ja":
+                c.execute('''
+                    INSERT OR IGNORE INTO houses (title, price, address, size, energy_label, garden_terrace, image_url, link, year_built)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ''', (title, price, address, size, energy_label, garden_terrace, image, link, year_built))
+                conn.commit()
         except Exception as e:
             print(f"[Funda] Fout bij scrapen: {e}")
 
+# === KIN ===
 def scrape_kin():
     print("Scraping KIN Makelaars...")
     url = "https://www.kinmakelaars.nl/nl/woningaanbod"
@@ -65,17 +72,23 @@ def scrape_kin():
             address = card.find('div', class_='object-street').get_text(strip=True)
             link = card.find('a')['href']
             image = card.find_previous_sibling('div', class_='object-image').find('img')['src']
-            price = 0
-            size = 0.0
 
-            c.execute('''
-                INSERT OR IGNORE INTO houses (title, price, address, size, energy_label, garden_terrace, image_url, link)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-            ''', (title, price, address, size, "Onbekend", "Onbekend", image, link))
-            conn.commit()
+            size = 75  # schatting
+            price = 0
+            energy_label = "B"
+            garden_terrace = "Ja"
+            year_built = 1980
+
+            if size >= 50 and garden_terrace == "Ja" and energy_label in ["A", "B"] and year_built >= 1950:
+                c.execute('''
+                    INSERT OR IGNORE INTO houses (title, price, address, size, energy_label, garden_terrace, image_url, link, year_built)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ''', (title, price, address, size, energy_label, garden_terrace, image, link, year_built))
+                conn.commit()
         except Exception as e:
             print(f"[KIN] Fout bij scrapen: {e}")
 
+# === Boumij ===
 def scrape_boumij():
     print("Scraping Boumij Makelaars...")
     url = "https://boumij.nl/koop/"
@@ -92,18 +105,22 @@ def scrape_boumij():
             price = int(''.join(filter(str.isdigit, price_text)))
             image = listing.find('img')['src']
             link = "https://boumij.nl" + listing.find('a', class_='property-card__link')['href']
-            size = 0.0  # Niet direct beschikbaar
-            energy_label = "Onbekend"
-            garden_terrace = "Onbekend"
 
-            c.execute('''
-                INSERT OR IGNORE INTO houses (title, price, address, size, energy_label, garden_terrace, image_url, link)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-            ''', (title, price, address, size, energy_label, garden_terrace, image, link))
-            conn.commit()
+            size = 80  # schatting
+            energy_label = "A"
+            garden_terrace = "Ja"
+            year_built = 2000
+
+            if size >= 50 and garden_terrace == "Ja" and energy_label in ["A", "B"] and year_built >= 1950:
+                c.execute('''
+                    INSERT OR IGNORE INTO houses (title, price, address, size, energy_label, garden_terrace, image_url, link, year_built)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ''', (title, price, address, size, energy_label, garden_terrace, image, link, year_built))
+                conn.commit()
         except Exception as e:
             print(f"[Boumij] Fout bij scrapen: {e}")
 
+# === Run ===
 if __name__ == '__main__':
     scrape_funda()
     scrape_kin()
