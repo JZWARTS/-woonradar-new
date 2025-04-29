@@ -1,109 +1,86 @@
 from flask import Flask, render_template, request
 import json
-import os
-import re
 
 app = Flask(__name__)
 
-# 📍 Grote plaats naar provincie mapping
+# Mapping van gemeenten naar provincies
 plaats_naar_provincie = {
-    "Amsterdam": "Noord-Holland",
-    "Rotterdam": "Zuid-Holland",
-    "Utrecht": "Utrecht",
-    "Groningen": "Groningen",
-    "Den Haag": "Zuid-Holland",
-    "Eindhoven": "Noord-Brabant",
-    "Tilburg": "Noord-Brabant",
-    "Breda": "Noord-Brabant",
-    "Nijmegen": "Gelderland",
+    "Someren": "Noord-Brabant",
+    "Nieuwvliet": "Zeeland",
+    "Oirschot": "Noord-Brabant",
+    "Bunschoten-Spakenburg": "Utrecht",
     "Arnhem": "Gelderland",
-    "Haarlem": "Noord-Holland",
-    "Enschede": "Overijssel",
-    "Zwolle": "Overijssel",
-    "Leeuwarden": "Friesland",
+    "Lunteren": "Gelderland",
     "Maastricht": "Limburg",
-    "Venlo": "Limburg",
-    "Middelburg": "Zeeland",
-    "Assen": "Drenthe",
-    "Almere": "Flevoland",
-    "Apeldoorn": "Gelderland",
-    "Helmond": "Noord-Brabant",
-    "Dordrecht": "Zuid-Holland",
-    "Leiden": "Zuid-Holland",
-    "Amersfoort": "Utrecht",
-    "Zaanstad": "Noord-Holland",
-    "Roosendaal": "Noord-Brabant",
-    "Oss": "Noord-Brabant",
-    "Heerlen": "Limburg",
-    "Sittard-Geleen": "Limburg",
-    "Emmen": "Drenthe",
-    "Gouda": "Zuid-Holland",
-    "Hengelo": "Overijssel",
-    "Vlissingen": "Zeeland",
+    "Bunde": "Limburg",
+    "Elst Ut": "Utrecht",
+    "Oost-Souburg": "Zeeland",
+    "Workum": "Friesland",
+    "Tilburg": "Noord-Brabant",
+    "Oud-Beijerland": "Zuid-Holland",
+    "Goedereede": "Zuid-Holland",
+    "Beegden": "Limburg",
     "Hoorn": "Noord-Holland",
-    "Delft": "Zuid-Holland",
-    "Tiel": "Gelderland",
-    "Weert": "Limburg",
-    "Ede": "Gelderland",
-    "Nieuwegein": "Utrecht",
-    "Zeist": "Utrecht",
-    "Harderwijk": "Gelderland",
-    "Heerenveen": "Friesland",
-    "Hilversum": "Noord-Holland",
-    "Goes": "Zeeland",
+    "Sliedrecht": "Zuid-Holland",
+    "Almere": "Flevoland",
     "Hoogeveen": "Drenthe",
-    "Schiedam": "Zuid-Holland",
-    "Capelle aan den IJssel": "Zuid-Holland",
-    "Purmerend": "Noord-Holland",
-    "Veenendaal": "Utrecht",
-    "Houten": "Utrecht",
-    "Woerden": "Utrecht"
-    # ➔ Hier kun je later altijd nog meer plaatsen aan toevoegen
+    "Leiden": "Zuid-Holland",
+    "Dordrecht": "Zuid-Holland",
+    "Kapelle": "Zeeland",
+    "Baexem": "Limburg",
+    "Den Ham": "Overijssel",
+    "Poortvliet": "Zeeland",
+    "Ouddorp": "Zuid-Holland",
+    "Zwolle": "Overijssel",
+    "Hendrik-Ido-Ambacht": "Zuid-Holland",
+    "Amsterdam": "Noord-Holland",
+    "Leeuwarden": "Friesland",
+    "Terneuzen": "Zeeland",
+    "Rotterdam": "Zuid-Holland",
+    "Venlo": "Limburg",
+    "Puth": "Limburg",
+    "Hallum": "Friesland",
+    "Heerlen": "Limburg",
+    "Apeldoorn": "Gelderland",
+    "Beek en Donk": "Noord-Brabant",
+    "Nijmegen": "Gelderland",
+    "Hardinxveld-Giessendam": "Zuid-Holland",
+    "Leerdam": "Zuid-Holland",
+    "Arnhem": "Gelderland",
+    "Venlo": "Limburg",
+    # Voeg hier meer plaatsen toe als nodig
 }
 
-# 🧠 Functie om provincie te bepalen uit adres
-def extract_provincie(address):
-    if not address:
-        return "Onbekend"
-    # Eerst zoeken naar haakjes (bijv: (Tilburg))
-    match = re.search(r"\((.*?)\)", address)
-    if match:
-        plaats = match.group(1).strip()
-    else:
-        # Als geen haakjes, pak alles na laatste komma
-        delen = address.split(',')
-        plaats = delen[-1].strip() if len(delen) > 1 else address.strip()
+def bepaal_provincie(address):
+    for plaats in plaats_naar_provincie:
+        if plaats.lower() in address.lower():
+            return plaats_naar_provincie[plaats]
+    return "Onbekend"
 
-    return plaats_naar_provincie.get(plaats, "Onbekend")
-
-# 🌐 Route voor dashboard
 @app.route("/")
 def dashboard():
-    provincie_filter = request.args.get("provincie")
-    sortering = request.args.get("sortering")
+    with open("data.json", "r", encoding="utf-8") as f:
+        houses = json.load(f)
 
-    try:
-        with open("static/data.json", encoding="utf-8") as f:
-            houses = json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError):
-        houses = []
+    # Voeg provincie toe aan elk huis
+    for h in houses:
+        h['provincie'] = bepaal_provincie(h['address'])
 
-    # Provincie toevoegen per woning
-    for house in houses:
-        house["provincie"] = extract_provincie(house.get("address", ""))
+    # Filters ophalen uit URL parameters
+    selected_provincie = request.args.get('provincie')
+    selected_sortering = request.args.get('sortering')
 
-    # Filteren op provincie
-    if provincie_filter:
-        houses = [h for h in houses if h.get("provincie") == provincie_filter]
+    # Filteren op provincie als gekozen
+    if selected_provincie:
+        houses = [h for h in houses if h['provincie'] == selected_provincie]
 
     # Sorteren op prijs
-    if sortering == "prijs_asc":
-        houses.sort(key=lambda h: h.get("price") if h.get("price") else 0)
-    elif sortering == "prijs_desc":
-        houses.sort(key=lambda h: h.get("price") if h.get("price") else 0, reverse=True)
+    if selected_sortering == "prijs_asc":
+        houses.sort(key=lambda x: x['price'])
+    elif selected_sortering == "prijs_desc":
+        houses.sort(key=lambda x: x['price'], reverse=True)
 
-    return render_template("dashboard.html", houses=houses, selected_provincie=provincie_filter, selected_sortering=sortering)
+    return render_template("dashboard.html", houses=houses, selected_provincie=selected_provincie, selected_sortering=selected_sortering)
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 5000))
-    app.run(host="0.0.0.0", port=port)
+    app.run(debug=True)
