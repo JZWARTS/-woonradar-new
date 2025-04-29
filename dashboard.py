@@ -5,32 +5,50 @@ import re
 
 app = Flask(__name__)
 
-# Mapping plaats naar provincie
+# 📍 Mapping plaats naar provincie
 plaats_naar_provincie = {
     "Diessen": "Noord-Brabant",
     "Beek en Donk": "Noord-Brabant",
-    # Voeg hier meer plaatsnamen toe als je wilt uitbreiden
+    "Tilburg": "Noord-Brabant",
+    "Breda": "Noord-Brabant",
+    "Eindhoven": "Noord-Brabant",
+    "Amsterdam": "Noord-Holland",
+    "Rotterdam": "Zuid-Holland",
+    "Arnhem": "Gelderland",
+    "Zwolle": "Overijssel",
+    # Voeg zelf meer plaatsen toe als je wilt!
 }
+
+def extract_provincie(address):
+    match = re.search(r"\((.*?)\)", address)
+    plaats = match.group(1) if match else ""
+    return plaats_naar_provincie.get(plaats, "Onbekend")
 
 @app.route("/")
 def dashboard():
-    filter_provincie = request.args.get("provincie")
+    provincie_filter = request.args.get("provincie")
+    sortering = request.args.get("sortering")
+
+    # Laad huizen
     try:
         with open("static/data.json", encoding="utf-8") as f:
             houses = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         houses = []
 
-    # Extract plaats en koppel provincie
+    # Voeg provincie toe per huis
     for house in houses:
-        match = re.search(r"\((.*?)\)", house.get("address", ""))
-        plaats = match.group(1) if match else ""
-        house["provincie"] = plaats_naar_provincie.get(plaats, "Onbekend")
+        house["provincie"] = extract_provincie(house.get("address", ""))
 
-    if filter_provincie:
-        houses = [h for h in houses if h.get("provincie") == filter_provincie]
+    # Filteren op provincie
+    if provincie_filter:
+        houses = [h for h in houses if h.get("provincie") == provincie_filter]
 
-    return render_template("dashboard.html", houses=houses)
+    # Sorteren op prijs
+    if sortering == "prijs_asc":
+        houses.sort(key=lambda h: h.get("price") if h.get("price") else 0)
+
+    return render_template("dashboard.html", houses=houses, selected_provincie=provincie_filter, selected_sortering=sortering)
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))

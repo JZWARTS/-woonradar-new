@@ -8,13 +8,25 @@
 <body>
     <h1>🏠 Overzicht van woningen</h1>
 
-    <!-- ✅ Nieuw: Filterformulier -->
+    <!-- 🔥 Nieuw: Filters voor provincie en prijs -->
     <form method="get" style="margin-bottom: 20px;">
         <label for="provincie">Filter op provincie:</label>
-        <select name="provincie" id="provincie" onchange="this.form.submit()">
+        <select name="provincie" id="provincie">
             <option value="">Alle provincies</option>
-            <option value="Noord-Brabant" {% if request.args.get('provincie') == 'Noord-Brabant' %}selected{% endif %}>Noord-Brabant</option>
+            <option value="Noord-Brabant" {% if selected_provincie == 'Noord-Brabant' %}selected{% endif %}>Noord-Brabant</option>
+            <option value="Noord-Holland" {% if selected_provincie == 'Noord-Holland' %}selected{% endif %}>Noord-Holland</option>
+            <option value="Zuid-Holland" {% if selected_provincie == 'Zuid-Holland' %}selected{% endif %}>Zuid-Holland</option>
+            <option value="Gelderland" {% if selected_provincie == 'Gelderland' %}selected{% endif %}>Gelderland</option>
+            <option value="Overijssel" {% if selected_provincie == 'Overijssel' %}selected{% endif %}>Overijssel</option>
         </select>
+
+        <label for="sortering">Sorteer op:</label>
+        <select name="sortering" id="sortering">
+            <option value="">Standaard</option>
+            <option value="prijs_asc" {% if selected_sortering == 'prijs_asc' %}selected{% endif %}>Prijs laag-hoog</option>
+        </select>
+
+        <button type="submit">Filter toepassen</button>
     </form>
 
     {% if houses %}
@@ -36,16 +48,34 @@
             <tbody>
                 {% for h in houses %}
                 <tr>
-                    <td>{{ h.title }}</td>
-                    <td>€ {{ "{:,}".format(h.price).replace(",", ".") }}</td>
-                    <td>{{ h.address }}</td>
-                    <td>{{ h.size }} m²</td>
-                    <td>{{ h.energy_label }}</td>
-                    <td>{{ h.garden_terrace }}</td>
-                    <td><img src="{{ h.image_url }}" alt="foto" style="width:100px;"></td>
-                    <td>{{ h.provider }}</td>
-                    <td>{{ h.date_scraped }}</td>
-                    <td><a href="{{ h.link }}" target="_blank">Bekijk</a></td>
+                    <td>{{ h.title or "Onbekend" }}</td>
+                    <td>
+                        {% if h.price %}
+                            € {{ "{:,}".format(h.price).replace(",", ".") }}
+                        {% else %}
+                            Onbekend
+                        {% endif %}
+                    </td>
+                    <td>{{ h.address or "Onbekend" }}</td>
+                    <td>{{ h.size or "?" }} m²</td>
+                    <td>{{ h.energy_label or "Onbekend" }}</td>
+                    <td>{{ h.garden_terrace or "Onbekend" }}</td>
+                    <td>
+                        {% if h.image_url %}
+                            <img src="{{ h.image_url }}" alt="foto" style="width:100px;">
+                        {% else %}
+                            Geen afbeelding
+                        {% endif %}
+                    </td>
+                    <td>{{ h.provider or "Onbekend" }}</td>
+                    <td>{{ h.date_scraped or "?" }}</td>
+                    <td>
+                        {% if h.link %}
+                            <a href="{{ h.link }}" target="_blank">Bekijk</a>
+                        {% else %}
+                            Geen link
+                        {% endif %}
+                    </td>
                 </tr>
                 {% endfor %}
             </tbody>
