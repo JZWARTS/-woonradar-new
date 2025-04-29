@@ -29,10 +29,11 @@ def setup_database():
 
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
 
-# === Scraper Functions ===
+# === Funda ===
 def scrape_funda(c):
     print("Scraping Funda...")
-    url = "https://www.funda.nl/koop/noord-brabant/"
+    url = "https://www.funda.nl/zoeken/koop/?selected_area=[%22provincie-noord-brabant%22]&availability=[%22available%22]&object_type=[%22house%22,%22apartment%22]&floor_area=%2250-%22&energy_label=[%22A%2B%2B%2B%2B%2B%22,%22A%2B%2B%2B%2B%22,%22A%2B%2B%2B%22,%22A%2B%2B%22,%22A%2B%22,%22A%22,%22B%22,%22C%22,%22D%22]&exterior_space_type=[%22garden%22,%22balcony%22,%22terrace%22]&construction_type=[%22resale%22]&construction_period=[%22after_2020%22,%22from_2011_to_2020%22,%22from_2001_to_2010%22,%22from_1991_to_2000%22,%22from_1981_to_1990%22,%22from_1971_to_1980%22,%22from_1960_to_1970%22]&price=%22-450000%22"
+
     try:
         response = requests.get(url, headers=HEADERS, timeout=10)
         response.raise_for_status()
@@ -65,9 +66,10 @@ def scrape_funda(c):
     except Exception as e:
         print(f"[Funda] Failed to scrape: {e}")
 
+# === Pararius ===
 def scrape_pararius(c):
     print("Scraping Pararius...")
-    url = "https://www.pararius.nl/koopwoningen/noord-brabant"
+    url = "https://www.pararius.nl/koopwoningen/nederland/bestaande-bouw/bouwjaar-1950-2025/0-450000/50m2/50-perceel-m2"
     try:
         response = requests.get(url, headers=HEADERS, timeout=10)
         response.raise_for_status()
@@ -100,6 +102,7 @@ def scrape_pararius(c):
     except Exception as e:
         print(f"[Pararius] Failed to scrape: {e}")
 
+# === VBO ===
 def scrape_vbo(c):
     print("Scraping VBO...")
     url = "https://www.vbo.nl/koopwoningen/noord-brabant"
