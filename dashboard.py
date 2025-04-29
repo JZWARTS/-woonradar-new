@@ -1,86 +1,41 @@
 from flask import Flask, render_template, request
 import json
+import os
 
 app = Flask(__name__)
 
-# Mapping van gemeenten naar provincies
-plaats_naar_provincie = {
-    "Someren": "Noord-Brabant",
-    "Nieuwvliet": "Zeeland",
-    "Oirschot": "Noord-Brabant",
-    "Bunschoten-Spakenburg": "Utrecht",
-    "Arnhem": "Gelderland",
-    "Lunteren": "Gelderland",
-    "Maastricht": "Limburg",
-    "Bunde": "Limburg",
-    "Elst Ut": "Utrecht",
-    "Oost-Souburg": "Zeeland",
-    "Workum": "Friesland",
-    "Tilburg": "Noord-Brabant",
-    "Oud-Beijerland": "Zuid-Holland",
-    "Goedereede": "Zuid-Holland",
-    "Beegden": "Limburg",
-    "Hoorn": "Noord-Holland",
-    "Sliedrecht": "Zuid-Holland",
-    "Almere": "Flevoland",
-    "Hoogeveen": "Drenthe",
-    "Leiden": "Zuid-Holland",
-    "Dordrecht": "Zuid-Holland",
-    "Kapelle": "Zeeland",
-    "Baexem": "Limburg",
-    "Den Ham": "Overijssel",
-    "Poortvliet": "Zeeland",
-    "Ouddorp": "Zuid-Holland",
-    "Zwolle": "Overijssel",
-    "Hendrik-Ido-Ambacht": "Zuid-Holland",
-    "Amsterdam": "Noord-Holland",
-    "Leeuwarden": "Friesland",
-    "Terneuzen": "Zeeland",
-    "Rotterdam": "Zuid-Holland",
-    "Venlo": "Limburg",
-    "Puth": "Limburg",
-    "Hallum": "Friesland",
-    "Heerlen": "Limburg",
-    "Apeldoorn": "Gelderland",
-    "Beek en Donk": "Noord-Brabant",
-    "Nijmegen": "Gelderland",
-    "Hardinxveld-Giessendam": "Zuid-Holland",
-    "Leerdam": "Zuid-Holland",
-    "Arnhem": "Gelderland",
-    "Venlo": "Limburg",
-    # Voeg hier meer plaatsen toe als nodig
-}
-
-def bepaal_provincie(address):
-    for plaats in plaats_naar_provincie:
-        if plaats.lower() in address.lower():
-            return plaats_naar_provincie[plaats]
-    return "Onbekend"
+# Laad en verrijk de data
+def load_data():
+    try:
+        with open("data.json", "r", encoding="utf-8") as f:
+            houses = json.load(f)
+            return houses
+    except Exception as e:
+        print(f"Fout bij laden van data.json: {e}")
+        return []
 
 @app.route("/")
-def dashboard():
-    with open("data.json", "r", encoding="utf-8") as f:
-        houses = json.load(f)
+def index():
+    houses = load_data()
 
-    # Voeg provincie toe aan elk huis
-    for h in houses:
-        h['provincie'] = bepaal_provincie(h['address'])
+    # Vraag filters op uit de URL
+    provincie = request.args.get("provincie")
+    sort = request.args.get("sort")
 
-    # Filters ophalen uit URL parameters
-    selected_provincie = request.args.get('provincie')
-    selected_sortering = request.args.get('sortering')
+    # Filter op provincie (als gekozen)
+    if provincie:
+        houses = [h for h in houses if h.get("province") == provincie]
 
-    # Filteren op provincie als gekozen
-    if selected_provincie:
-        houses = [h for h in houses if h['provincie'] == selected_provincie]
+    # Sorteer op prijs als gevraagd
+    if sort == "prijs_hoog":
+        houses.sort(key=lambda h: h.get("price", 0), reverse=True)
+    elif sort == "prijs_laag":
+        houses.sort(key=lambda h: h.get("price", 0))
 
-    # Sorteren op prijs
-    if selected_sortering == "prijs_asc":
-        houses.sort(key=lambda x: x['price'])
-    elif selected_sortering == "prijs_desc":
-        houses.sort(key=lambda x: x['price'], reverse=True)
+    # Extract unieke provincies voor dropdown
+    provincies = sorted(set(h.get("province", "Onbekend") for h in houses))
 
-    return render_template("dashboard.html", houses=houses, selected_provincie=selected_provincie, selected_sortering=selected_sortering)
+    return render_template("dashboard.html", houses=houses, provincies=provincies, selected_provincie=provincie)
 
 if __name__ == "__main__":
     app.run(debug=True)

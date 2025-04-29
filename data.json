@@ -1,29 +1,5 @@
 [
   {
-    "title": "Mimosastraat 7",
-    "price": 445000,
-    "address": "2371 GN Roelofarendsveen (Roelofarendsveen-Noord)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c5792e84-e5e0-51d1-8d3c-febee447527e/08e3174bf5b2f6083dec398727d2e73d.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/roelofarendsveen/c5792e84/mimosastraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-04-29"
-  },
-  {
-    "title": "Spoorslag 11",
-    "price": 395000,
-    "address": "2525 KH Den Haag (Groente- en Fruitmarkt)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/25b301ac-6c7a-565f-ac80-0b5c2af5dced/fe8205b800cb7af2d135344c1d486fae.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/den-haag/25b301ac/spoorslag",
-    "provider": "Pararius",
-    "date_scraped": "2025-04-29"
-  },
-  {
     "title": "Keizersmantel 48",
     "price": 390000,
     "address": "5711 NM Someren (Someren)",
@@ -1064,6 +1040,30 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/2959a89d-64d3-539a-9090-39fdfc835721/32c02b55cd1779a634d51757d5ac35a1.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/sittard/2959a89d/mauritsweg",
+    "provider": "Pararius",
+    "date_scraped": "2025-04-29"
+  },
+  {
+    "title": "Jan Steenstraat 10",
+    "price": 295000,
+    "address": "6181 DC Elsloo (Elsloo)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/281ef3e9-64a7-56a0-9a0e-7afc9a56fbfb/a5d8a7e5a80f5344ce4fc486ed59f164.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/elsloo-lb/281ef3e9/jan-steenstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-04-29"
+  },
+  {
+    "title": "Koningsberg 18",
+    "price": 398000,
+    "address": "6129 AV Urmond (Berg)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/da203573-1da7-52d8-8b7c-3ed544cd0cbf/210900a406e4571564decec3512b45cd.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/urmond/da203573/koningsberg",
     "provider": "Pararius",
     "date_scraped": "2025-04-29"
   }
