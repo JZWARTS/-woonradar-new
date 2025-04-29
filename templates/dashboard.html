@@ -8,6 +8,15 @@
 <body>
     <h1>🏠 Overzicht van woningen</h1>
 
+    <!-- ✅ Nieuw: Filterformulier -->
+    <form method="get" style="margin-bottom: 20px;">
+        <label for="provincie">Filter op provincie:</label>
+        <select name="provincie" id="provincie" onchange="this.form.submit()">
+            <option value="">Alle provincies</option>
+            <option value="Noord-Brabant" {% if request.args.get('provincie') == 'Noord-Brabant' %}selected{% endif %}>Noord-Brabant</option>
+        </select>
+    </form>
+
     {% if houses %}
         <table>
             <thead>
@@ -33,7 +42,7 @@
                     <td>{{ h.size }} m²</td>
                     <td>{{ h.energy_label }}</td>
                     <td>{{ h.garden_terrace }}</td>
-                    <td><img src="{{ h.image_url }}" alt="foto"></td>
+                    <td><img src="{{ h.image_url }}" alt="foto" style="width:100px;"></td>
                     <td>{{ h.provider }}</td>
                     <td>{{ h.date_scraped }}</td>
                     <td><a href="{{ h.link }}" target="_blank">Bekijk</a></td>
