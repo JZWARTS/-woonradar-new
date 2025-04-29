@@ -22,7 +22,6 @@ CREATE TABLE IF NOT EXISTS houses (
 ''')
 conn.commit()
 
-
 def scrape_funda():
     print("Scraping Funda...")
     url = "https://www.funda.nl/koop/noord-brabant/"
@@ -52,7 +51,6 @@ def scrape_funda():
         except Exception as e:
             print(f"[Funda] Fout bij scrapen: {e}")
 
-
 def scrape_kin():
     print("Scraping KIN Makelaars...")
     url = "https://www.kinmakelaars.nl/nl/woningaanbod"
@@ -78,36 +76,33 @@ def scrape_kin():
         except Exception as e:
             print(f"[KIN] Fout bij scrapen: {e}")
 
-
 def scrape_boumij():
     print("Scraping Boumij Makelaars...")
-    url = "https://boumij.nl/api/v1/property/list"
+    url = "https://boumij.nl/koop/"
     headers = {'User-Agent': 'Mozilla/5.0'}
-    try:
-        response = requests.get(url, headers=headers)
-        data = response.json()
+    response = requests.get(url, headers=headers)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    listings = soup.find_all('div', class_='property-card')
 
-        for item in data.get("data", []):
-            try:
-                title = item.get("title", "Onbekend")
-                address = item.get("street", "") + ", " + item.get("city", "")
-                link = "https://boumij.nl/woningaanbod/" + str(item.get("slug", ""))
-                price = int(item.get("price", 0))
-                size = float(item.get("living_surface", 0) or 0)
-                image = item.get("main_image", {}).get("url", "")
-                energy_label = item.get("energy_label", "Onbekend")
-                garden_terrace = "Ja" if "tuin" in title.lower() or "terras" in title.lower() else "Nee"
+    for listing in listings:
+        try:
+            title = listing.find('div', class_='property-card__title').get_text(strip=True)
+            address = listing.find('div', class_='property-card__location').get_text(strip=True)
+            price_text = listing.find('div', class_='property-card__price').get_text(strip=True).replace('€', '').replace('.', '').replace(',', '')
+            price = int(''.join(filter(str.isdigit, price_text)))
+            image = listing.find('img')['src']
+            link = "https://boumij.nl" + listing.find('a', class_='property-card__link')['href']
+            size = 0.0  # Niet direct beschikbaar
+            energy_label = "Onbekend"
+            garden_terrace = "Onbekend"
 
-                c.execute('''
-                    INSERT OR IGNORE INTO houses (title, price, address, size, energy_label, garden_terrace, image_url, link)
-                    VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-                ''', (title, price, address, size, energy_label, garden_terrace, image, link))
-                conn.commit()
-            except Exception as e:
-                print(f"[Boumij woning fout] {e}")
-    except Exception as e:
-        print(f"[Boumij API fout] {e}")
-
+            c.execute('''
+                INSERT OR IGNORE INTO houses (title, price, address, size, energy_label, garden_terrace, image_url, link)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            ''', (title, price, address, size, energy_label, garden_terrace, image, link))
+            conn.commit()
+        except Exception as e:
+            print(f"[Boumij] Fout bij scrapen: {e}")
 
 if __name__ == '__main__':
     scrape_funda()
