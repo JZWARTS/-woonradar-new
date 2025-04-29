@@ -2,8 +2,8 @@ name: Run Scraper Daily
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Dagelijks om 06:00 's ochtends UTC
-  workflow_dispatch:      # Handmatig starten via GitHub
+    - cron: '0 6 * * *'  # Dagelijks om 06:00 uur
+  workflow_dispatch:
 
 jobs:
   run-scraper:
@@ -28,11 +28,10 @@ jobs:
 
       - name: Commit updated data.json
         run: |
-          if test -f "data.json"; then
+          if [ -f "data.json" ]; then
             git config user.name "github-actions"
             git config user.email "actions@github.com"
             git add data.json
             git commit -m "Automated scrape update" || echo "No changes to commit"
             git push
-          else
-            echo "data.json not found. Skipping commit."
+          fi
