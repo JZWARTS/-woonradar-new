@@ -8,19 +8,19 @@
 <body>
     <h1>🏠 Overzicht van woningen</h1>
 
-    <!-- 🔥 Filters voor provincie en prijs -->
+    <!-- 🔍 Filters voor provincie en prijs -->
     <form method="get" style="margin-bottom: 20px;">
         <label for="provincie">Filter op provincie:</label>
         <select name="provincie" id="provincie">
             <option value="">Alle provincies</option>
-            <option value="Noord-Brabant" {% if selected_provincie == 'Noord-Brabant' %}selected{% endif %}>Noord-Brabant</option>
-            <option value="Noord-Holland" {% if selected_provincie == 'Noord-Holland' %}selected{% endif %}>Noord-Holland</option>
-            <option value="Zuid-Holland" {% if selected_provincie == 'Zuid-Holland' %}selected{% endif %}>Zuid-Holland</option>
-            <option value="Gelderland" {% if selected_provincie == 'Gelderland' %}selected{% endif %}>Gelderland</option>
-            <option value="Overijssel" {% if selected_provincie == 'Overijssel' %}selected{% endif %}>Overijssel</option>
+            {% for provincie in provincies %}
+                <option value="{{ provincie }}" {% if selected_provincie == provincie %}selected{% endif %}>
+                    {{ provincie }}
+                </option>
+            {% endfor %}
         </select>
 
-        <label for="sortering">Sorteer op:</label>
+        <label for="sortering">Sorteer op prijs:</label>
         <select name="sortering" id="sortering">
             <option value="">Standaard</option>
             <option value="prijs_asc" {% if selected_sortering == 'prijs_asc' %}selected{% endif %}>Prijs laag-hoog</option>
