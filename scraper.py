@@ -21,12 +21,12 @@ CREATE TABLE IF NOT EXISTS houses (
 ''')
 conn.commit()
 
-def scrape_houses():
+
+def scrape_funda():
     url = "https://www.funda.nl/koop/noord-brabant/"
     headers = {'User-Agent': 'Mozilla/5.0'}
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, 'html.parser')
-
     listings = soup.find_all('div', class_='search-result-content')
 
     for listing in listings:
@@ -40,22 +40,36 @@ def scrape_houses():
             image = listing.find('img')['src'] if listing.find('img') else ''
             link = "https://www.funda.nl" + listing.find('a', class_='search-result__header-title-container')['href']
 
-            energy_label = "Unknown"
-            garden_terrace = "Yes" if "tuin" in title.lower() or "terras" in title.lower() else "No"
+            energy_label = "Onbekend"
+            garden_terrace = "Ja" if "tuin" in title.lower() or "terras" in title.lower() else "Nee"
 
-            try:
-                c.execute('''
-                INSERT INTO houses (title, price, address, size, energy_label, garden_terrace, image_url, link)
+            c.execute('''
+                INSERT OR IGNORE INTO houses (title, price, address, size, energy_label, garden_terrace, image_url, link)
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-                ''', (title, price, address, size, energy_label, garden_terrace, image, link))
-                conn.commit()
-            except sqlite3.IntegrityError:
-                continue  # Dubbel link? Skip.
-
+            ''', (title, price, address, size, energy_label, garden_terrace, image, link))
+            conn.commit()
         except Exception as e:
-            print(f"Fout bij scrapen: {e}")
+            print(f"[Funda] Fout bij scrapen: {e}")
 
-if __name__ == '__main__':
-    scrape_houses()
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] Scrapen klaar!")
-    conn.close()
+
+def scrape_bouwmij():
+    url = "https://www.bouwmijmakelaars.nl/aanbod/"
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    response = requests.get(url, headers=headers)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    cards = soup.find_all('div', class_='object-intro')
+
+    for card in cards:
+        try:
+            title = card.find('a', class_='object-title').get_text(strip=True)
+            address = card.find('div', class_='object-street').get_text(strip=True)
+            link = card.find('a')['href']
+            image = card.find_previous_sibling('div', class_='object-image').find('img')['src']
+            price = 0  # Bouwmij toont soms geen prijs zonder klikken
+            size = 0.0
+            energy_label = "Onbekend"
+            garden_terrace = "Onbekend"
+
+            c.execute('''
+                INSERT OR IGNORE INTO houses (title, price, address, size, energy_label, garden_terrace, image_url, link)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
