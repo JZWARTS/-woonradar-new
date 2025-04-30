@@ -5,7 +5,13 @@ from datetime import datetime
 import os
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Referer": "https://www.google.com/",
+    "DNT": "1",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
 }
 
 PARARIUS_URL = "https://www.pararius.nl/koopwoningen/nederland/bestaande-bouw/bouwjaar-1950-2025/0-450000/50m2/50-perceel-m2/page-"
@@ -71,6 +77,9 @@ def scrape_huislijn():
         print(f"🌍 Huislijn pagina {page}: {url}")
         try:
             res = requests.get(url, headers=HEADERS, timeout=10)
+            if res.status_code == 403:
+                print(f"⛔ Toegang geweigerd tot Huislijn (pagina {page}). Headers werken mogelijk niet.")
+                break
             res.raise_for_status()
         except Exception as e:
             print(f"❌ Fout bij ophalen Huislijn pagina {page}: {e}")
