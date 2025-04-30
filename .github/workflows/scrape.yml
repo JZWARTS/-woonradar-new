@@ -1,9 +1,9 @@
 name: Run Scraper Daily
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 6 * * *'  # Dagelijks om 06:00 uur
-  workflow_dispatch:
 
 jobs:
   run-scraper:
@@ -26,12 +26,15 @@ jobs:
       - name: Run scraper
         run: python scraper.py
 
-      - name: Commit updated data.json
+      - name: Commit and push updated data.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if [ -f "data.json" ]; then
-            git config user.name "github-actions"
-            git config user.email "actions@github.com"
-            git add data.json
+          if [ -f "static/data.json" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add static/data.json
             git commit -m "Automated scrape update" || echo "No changes to commit"
-            git push
+            git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/JHAMARTS/woonradar-new.git
+            git push origin HEAD:main
           fi
