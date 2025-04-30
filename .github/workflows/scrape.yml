@@ -38,3 +38,7 @@ jobs:
             git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/JZWARTS/-woonradar-new.git
             git push origin HEAD:main
           fi
+
+      - name: 🔁 Trigger Render redeploy
+        run: |
+          curl -X POST "https://api.render.com/deploy/srv-d08he6adbo4c73adp2bg?key=WBHUvx4ANd0"
