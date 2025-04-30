@@ -3,7 +3,7 @@ name: Run Scraper Daily
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 6 * * *'  # Dagelijks om 06:00 uur
+    - cron: '0 6,18 * * *'  # Dagelijks om 06:00 en 18:00 uur
 
 jobs:
   run-scraper:
