@@ -1,5 +1,29 @@
 [
   {
+    "title": "Christinastraat 32",
+    "price": 419000,
+    "address": "4485 AS Kats (Kats)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9316d871-1b82-5d32-949d-6e18ab5fe73b/527c29a947eb539a901b4eb3e739396c.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/kats/9316d871/christinastraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-04-30"
+  },
+  {
+    "title": "Omloop 48",
+    "price": 379000,
+    "address": "4614 EP Bergen op Zoom (Meilust Noord)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fcd0688b-01a1-5851-9bf7-544eb3f041b5/d48d7f5ea5a576e0873a8ce118b44310.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/bergen-op-zoom/fcd0688b/omloop",
+    "provider": "Pararius",
+    "date_scraped": "2025-04-30"
+  },
+  {
     "title": "Barbarastraat 44",
     "price": 285000,
     "address": "6164 HL Geleen (Geleen-Zuid)",
@@ -1760,30 +1784,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/b27802de-9003-5c86-a960-a83bfd9c2078/b27a42484c6524189a9e0e41420f01d8.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/appartement-te-koop/badhoevedorp/b27802de/meidoornweg",
-    "provider": "Pararius",
-    "date_scraped": "2025-04-30"
-  },
-  {
-    "title": "Schoondonk 1",
-    "price": 389000,
-    "address": "4907 ZP Oosterhout (Donkenbuurt)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/03167857-1551-5db5-89e1-7de24327b005/aba76d170252f7408c9d44b54973f427.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/oosterhout-nb/03167857/schoondonk",
-    "provider": "Pararius",
-    "date_scraped": "2025-04-30"
-  },
-  {
-    "title": "Koraalstraat 29",
-    "price": 360000,
-    "address": "1339 CG Almere (Regenboogbuurt Noord en Oost)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/026745b4-be27-5799-a803-39e4e8ed5abc/bb5cc99274257730e35b1ad1c0a440d1.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/almere/026745b4/koraalstraat",
     "provider": "Pararius",
     "date_scraped": "2025-04-30"
   }
