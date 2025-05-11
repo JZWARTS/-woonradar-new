@@ -1,5 +1,53 @@
 [
   {
+    "title": "Grovestins 27",
+    "price": 249500,
+    "address": "9051 GX Stiens (Stiens)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4b5c2b9c-2079-56ab-8acf-64dd8861d88a/58247aeae7438622b2c87621094c58b5.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/stiens/4b5c2b9c/grovestins",
+    "provider": "Pararius",
+    "date_scraped": "2025-05-11"
+  },
+  {
+    "title": "Lobeliuslaan 323",
+    "price": 419000,
+    "address": "1504 EE Zaandam (Poelenburg)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/29e4faa9-2626-5db5-b287-bef9a3fbef33/7bf69c3062db6c8a015097e2908b7ea3.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/zaandam/29e4faa9/lobeliuslaan",
+    "provider": "Pararius",
+    "date_scraped": "2025-05-11"
+  },
+  {
+    "title": "Pinksterbloemweg 112",
+    "price": 435000,
+    "address": "1338 RE Almere (Bloemenbuurt Noord)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9987b596-802a-5941-a58d-33740a96b2d7/0e758604a65e6103fcb4934a4bc9a6b9.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/almere/9987b596/pinksterbloemweg",
+    "provider": "Pararius",
+    "date_scraped": "2025-05-11"
+  },
+  {
+    "title": "Rumbastraat 103",
+    "price": 375000,
+    "address": "1326 NM Almere (Danswijk Noordoost)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9ecf3a9a-13c0-5e3a-b3e0-5856a2b301a3/c9f0fc11a7a2347bb322fb589c615e41.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/almere/9ecf3a9a/rumbastraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-05-11"
+  },
+  {
     "title": "Badhuisweg 68 A",
     "price": 349000,
     "address": "4506 BD Cadzand (Cadzand)",
@@ -24,18 +72,6 @@
     "date_scraped": "2025-05-11"
   },
   {
-    "title": "Parelgras 55",
-    "price": 425000,
-    "address": "1687 WV Wognum (Wognum Kreeklanden)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fb94a172-a270-5948-b87f-0b7c8b2b094c/04a3bf1c5dd6acaaf8f19121000fb6d3.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/wognum/fb94a172/parelgras",
-    "provider": "Pararius",
-    "date_scraped": "2025-05-11"
-  },
-  {
     "title": "Flevosingel 42",
     "price": 400000,
     "address": "1671 JK Medemblik (Medemblik Randwijk en Gildenwijk)",
@@ -44,6 +80,18 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/9af364ff-0d8d-5996-84ee-4dad53d2eb61/06f4265d5dbf3d1f8aadf3ad123ece8c.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/medemblik/9af364ff/flevosingel",
+    "provider": "Pararius",
+    "date_scraped": "2025-05-11"
+  },
+  {
+    "title": "Parelgras 55",
+    "price": 425000,
+    "address": "1687 WV Wognum (Wognum Kreeklanden)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fb94a172-a270-5948-b87f-0b7c8b2b094c/04a3bf1c5dd6acaaf8f19121000fb6d3.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/wognum/fb94a172/parelgras",
     "provider": "Pararius",
     "date_scraped": "2025-05-11"
   },
@@ -288,14 +336,14 @@
     "date_scraped": "2025-05-11"
   },
   {
-    "title": "De Nije Kamers 4",
-    "price": 375000,
-    "address": "9076 JD St.-Annaparochie (St.-Annaparochie Noordoost)",
+    "title": "S L Mansholtplein 23",
+    "price": 275000,
+    "address": "8802 RN Franeker (Franeker Sexbierumerplan)",
     "size": 50.0,
     "energy_label": "Onbekend",
     "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2c85dce5-9a52-5619-afae-4e150e82a6c2/ea9b16a8a9a80e0784f1dc5a4e524f4a.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/st-annaparochie/2c85dce5/de-nije-kamers",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/16fb8936-3875-5dcf-ac8f-4efc99981a0c/80df72127c0993d7b549172cabe612a3.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/franeker/16fb8936/s-l-mansholtplein",
     "provider": "Pararius",
     "date_scraped": "2025-05-11"
   },
@@ -720,18 +768,6 @@
     "date_scraped": "2025-05-11"
   },
   {
-    "title": "Nachtwachtlaan 357",
-    "price": 435000,
-    "address": "1058 EM Amsterdam (Overtoomse Veld)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b602a852-a664-5225-8d5e-f116e3a149fa/56f0eb7d266d799885090ba57f0ff278.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/appartement-te-koop/amsterdam/b602a852/nachtwachtlaan",
-    "provider": "Pararius",
-    "date_scraped": "2025-05-11"
-  },
-  {
     "title": "Zenostraat 35",
     "price": 445000,
     "address": "3076 AR Rotterdam (Lombardijen)",
@@ -740,6 +776,18 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/0e748367-31bb-5395-9d55-35a44b93ac09/0821c0069f6d743bbd5b92214140c780.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/rotterdam/0e748367/zenostraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-05-11"
+  },
+  {
+    "title": "Nachtwachtlaan 357",
+    "price": 435000,
+    "address": "1058 EM Amsterdam (Overtoomse Veld)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b602a852-a664-5225-8d5e-f116e3a149fa/56f0eb7d266d799885090ba57f0ff278.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/appartement-te-koop/amsterdam/b602a852/nachtwachtlaan",
     "provider": "Pararius",
     "date_scraped": "2025-05-11"
   },
@@ -1488,18 +1536,6 @@
     "date_scraped": "2025-05-11"
   },
   {
-    "title": "Hertshooi 5",
-    "price": 415000,
-    "address": "5731 TK Mierlo (Mierlo)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/3a03a06e-c522-58c9-9f88-ad4135018e4e/75f6322da492c1cfb56317ffcab82360.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/mierlo/3a03a06e/hertshooi",
-    "provider": "Pararius",
-    "date_scraped": "2025-05-11"
-  },
-  {
     "title": "Liviuslaan 77",
     "price": 400000,
     "address": "5624 JE Eindhoven (Prinsejagt)",
@@ -1508,6 +1544,18 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/59ec6195-2aba-58c8-94f5-e5f2138e8843/6006c1f663e6dd99f14ac1e7eb29e2ce.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/eindhoven/59ec6195/liviuslaan",
+    "provider": "Pararius",
+    "date_scraped": "2025-05-11"
+  },
+  {
+    "title": "Hertshooi 5",
+    "price": 415000,
+    "address": "5731 TK Mierlo (Mierlo)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/3a03a06e-c522-58c9-9f88-ad4135018e4e/75f6322da492c1cfb56317ffcab82360.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/mierlo/3a03a06e/hertshooi",
     "provider": "Pararius",
     "date_scraped": "2025-05-11"
   },
@@ -1712,54 +1760,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/714f3eb3-ff95-5342-ba1d-086c1f1d8098/c8889350e8ef5d68fa2843663dc93a8f.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/weert/714f3eb3/noorderlaan",
-    "provider": "Pararius",
-    "date_scraped": "2025-05-11"
-  },
-  {
-    "title": "Beeldhouwershoeve 207",
-    "price": 449500,
-    "address": "7326 SK Apeldoorn (Matenhoeve)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/952b89bc-469d-581e-ab1b-91e9bf8b35a7/516e36e7ce33ea72401263e456a39c7b.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/apeldoorn/952b89bc/beeldhouwershoeve",
-    "provider": "Pararius",
-    "date_scraped": "2025-05-11"
-  },
-  {
-    "title": "Kruizemuntstraat 835",
-    "price": 419000,
-    "address": "7322 MJ Apeldoorn (De Mheen)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4a9eb097-6471-5373-9114-1d5156b2e841/76324ecc5de0737eb30db117dbdfd63e.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/apeldoorn/4a9eb097/kruizemuntstraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-05-11"
-  },
-  {
-    "title": "Imkersdreef 614",
-    "price": 380000,
-    "address": "7328 DJ Apeldoorn (Matendreef)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7b5935c9-4ca2-5a81-8c21-0ad124619b33/9b27a5708610a21f998cead9d528b085.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/apeldoorn/7b5935c9/imkersdreef",
-    "provider": "Pararius",
-    "date_scraped": "2025-05-11"
-  },
-  {
-    "title": "Waterlei 306",
-    "price": 389500,
-    "address": "7325 GN Apeldoorn (Osseveld-Oost)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/52945e50-0f5f-5738-9152-4861e679bde8/a28ee7e377373bf2c989cb421ee7abdd.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/apeldoorn/52945e50/waterlei",
     "provider": "Pararius",
     "date_scraped": "2025-05-11"
   }
