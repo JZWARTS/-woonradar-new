@@ -1,5 +1,29 @@
 [
   {
+    "title": "Dorpsstraat 58",
+    "price": 339000,
+    "address": "4511 EH Breskens (Breskens)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/93067766-6494-5119-8d9a-4c453b03bc5c/29b063abd9c769a0985cb71bc0d011fc.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/breskens/93067766/dorpsstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-06-15"
+  },
+  {
+    "title": "De Witte Raaflaan 53",
+    "price": 449000,
+    "address": "2204 BK Noordwijk (Buitengebied Noordwijk Noord)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/792bc2f1-94e1-5ae4-a7be-34cf3453a740/771f7e9b6b06c5b750424c808f90ad4e.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/noordwijk-zh/792bc2f1/de-witte-raaflaan",
+    "provider": "Pararius",
+    "date_scraped": "2025-06-15"
+  },
+  {
     "title": "De Vooghtstraat 30",
     "price": 389000,
     "address": "4921 EL Made (Stuivezand)",
@@ -1700,30 +1724,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/1faae29b-7fdb-5a19-b045-bb635bd70760/bb7e90ade4828bcecab03268b7ade8da.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/hardinxveld-giessendam/1faae29b/kuyperstraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-06-15"
-  },
-  {
-    "title": "Govert Oostwoudpad 4",
-    "price": 450000,
-    "address": "1689 XR Zwaag (Bangert en Oosterpolder - Buurt 35 04)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4def6769-44c2-5ed2-9aa8-c31a01e7ddc8/de3d9a4f842214ee17ff550e11089cd5.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/zwaag/4def6769/govert-oostwoudpad",
-    "provider": "Pararius",
-    "date_scraped": "2025-06-15"
-  },
-  {
-    "title": "Chopinstraat 3",
-    "price": 325000,
-    "address": "7582 EG Losser (Losser-West)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ec438442-0b97-55c3-b732-23cf8876210c/d3785fcd9c00f3e89a24264e9c3c2e7d.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/losser/ec438442/chopinstraat",
     "provider": "Pararius",
     "date_scraped": "2025-06-15"
   }
