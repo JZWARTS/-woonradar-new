@@ -1,5 +1,41 @@
 [
   {
+    "title": "Berkenlaan 7",
+    "price": 350000,
+    "address": "5143 CX Waalwijk (Bloemenoord)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4b7a289e-f994-5c11-9b89-7f0b8c85d817/b6ab9654d1f85d8cdfac79839076065b.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/waalwijk/4b7a289e/berkenlaan",
+    "provider": "Pararius",
+    "date_scraped": "2025-06-22"
+  },
+  {
+    "title": "Galjoen 79",
+    "price": 397500,
+    "address": "1625 CS Hoorn (Risdam-Zuid - Buurt 20 06)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/13d549e9-feb9-56b4-8f53-880bcff1becc/99de7b8accaff3d638818cb85d8901a3.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/hoorn-nh/13d549e9/galjoen",
+    "provider": "Pararius",
+    "date_scraped": "2025-06-22"
+  },
+  {
+    "title": "Antwerpenstraat 46",
+    "price": 435000,
+    "address": "7559 NH Hengelo (Vossenbelt-Zuid)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/81f6b3ab-ecdc-531e-a64c-80b7bced4944/8dd79a6f16409c1fd38a8c22d9f0977d.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/hengelo/81f6b3ab/antwerpenstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-06-22"
+  },
+  {
     "title": "Kannenburg 524",
     "price": 350000,
     "address": "7423 AL Deventer (Het Oostrik)",
@@ -1748,42 +1784,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/d7566424-32be-5c44-b780-c2186849922e/75c40b2f9231ab2430c682f384586ebd.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/schoonebeek/d7566424/t-rak",
-    "provider": "Pararius",
-    "date_scraped": "2025-06-22"
-  },
-  {
-    "title": "Luitstraat 13",
-    "price": 375000,
-    "address": "1443 XA Purmerend (Wheermolen-Oost)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/dd23b4f1-f222-593c-b79d-930942396698/fb4a51ba9f8294eab06c33022eca1da4.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/purmerend/dd23b4f1/luitstraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-06-22"
-  },
-  {
-    "title": "Paganinistraat 12",
-    "price": 279000,
-    "address": "4561 VD Hulst (Zoetevaart)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b66e60ef-fd37-55d5-9d8c-3f772740b33c/27ee30abe7f2b4868e066cc967eb4c6b.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/hulst/b66e60ef/paganinistraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-06-22"
-  },
-  {
-    "title": "Thijs Slootshof 9",
-    "price": 399000,
-    "address": "5674 MD Nuenen (Nederwetten)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2f3b178b-1557-59a6-b35c-fefac0075f8d/1810fb86a12d6280a29c507114783807.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/nuenen/2f3b178b/thijs-slootshof",
     "provider": "Pararius",
     "date_scraped": "2025-06-22"
   }
