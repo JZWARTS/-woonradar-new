@@ -1,5 +1,29 @@
 [
   {
+    "title": "Grevelingen 25",
+    "price": 395000,
+    "address": "8032 KX Zwolle (Aa-landen-Midden)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/da4c6c31-4c2a-54ef-baf5-2b3cf4f9d842/6dabdfdc17ba64166d2c45693e32b19d.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/zwolle/da4c6c31/grevelingen",
+    "provider": "Pararius",
+    "date_scraped": "2025-07-06"
+  },
+  {
+    "title": "Lunenburg 29",
+    "price": 415000,
+    "address": "1965 NZ Heemskerk (Hoogdorp)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7f9c64de-fa40-5eee-a70d-947a2891839a/2e8bbf12a0875ace5619c66ad78d2144.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/heemskerk/7f9c64de/lunenburg",
+    "provider": "Pararius",
+    "date_scraped": "2025-07-06"
+  },
+  {
     "title": "Mortierlaan 165",
     "price": 375000,
     "address": "5641 WC Eindhoven (Muschberg, Geestenberg)",
@@ -1772,30 +1796,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/f0b9be98-0642-5394-ae03-4383cb081eb7/a421bb4ec118cfddb8119157f9f0e2d8.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/nederweert/f0b9be98/hageldor",
-    "provider": "Pararius",
-    "date_scraped": "2025-07-06"
-  },
-  {
-    "title": "Salland 9",
-    "price": 450000,
-    "address": "1447 BS Purmerend (Purmer-Zuid/Noord)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fd52e31f-9807-5662-bcaf-6466164b1ec4/0899b28c556dcc982157e50ed01e100b.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/purmerend/fd52e31f/salland",
-    "provider": "Pararius",
-    "date_scraped": "2025-07-06"
-  },
-  {
-    "title": "Boekbinderstraat 44",
-    "price": 400000,
-    "address": "1445 JT Purmerend (Overlanderstraat en omgeving)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d31e8395-c919-59a4-a4c8-8b9d449d9492/d23945baa441c5770d858164377d1007.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/purmerend/d31e8395/boekbinderstraat",
     "provider": "Pararius",
     "date_scraped": "2025-07-06"
   }
