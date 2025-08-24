@@ -1,5 +1,65 @@
 [
   {
+    "title": "Cuyleborg 226",
+    "price": 335000,
+    "address": "6228 BP Maastricht (De Heeg)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b2b34217-89a1-52d2-bd11-f3b4ce1f2dc9/0c254da74efc6b8e281d226c9e98ab79.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/maastricht/b2b34217/cuyleborg",
+    "provider": "Pararius",
+    "date_scraped": "2025-08-24"
+  },
+  {
+    "title": "Veldbies",
+    "price": 249500,
+    "address": "8935 PZ Leeuwarden (Aldlân-Oost)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/aeb2fb2d-53d8-52d4-92f6-f48db9733eca/f0b1c0b2-9c97-5176-ac34-619d2db82946?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F240938554.webp%3Fcheck%3Dsha256%253Af823472b1fe2920134fa92b393c123ad89cbea044100dc68266224442f13c990%26resize%3D4%26selected%3D240938554%23foto240938554&width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/leeuwarden/aeb2fb2d/veldbies",
+    "provider": "Pararius",
+    "date_scraped": "2025-08-24"
+  },
+  {
+    "title": "Dreef 144",
+    "price": 400000,
+    "address": "3224 XC Hellevoetsluis (Wittens Hoeck)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4481a079-8af1-5ce3-8ac5-939b2a302cd6/dbdef7a2f533700dc883e07330567ce5.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/hellevoetsluis/4481a079/dreef",
+    "provider": "Pararius",
+    "date_scraped": "2025-08-24"
+  },
+  {
+    "title": "Acaciastraat 16",
+    "price": 339000,
+    "address": "1602 RG Enkhuizen (Oude Gouw)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/56178c30-dfe8-5bd8-988a-0a15cd2885df/5601ce5fe59975a7a9e7bf4d6027bc87.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/enkhuizen/56178c30/acaciastraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-08-24"
+  },
+  {
+    "title": "Heer van Rodestraat 169",
+    "price": 349000,
+    "address": "5731 VT Mierlo (Mierlo)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4fc39d31-3f82-5054-833a-52289e1a560a/239e58354d27e3a2cf74e3b67ae1d450.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/mierlo/4fc39d31/heer-van-rodestraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-08-24"
+  },
+  {
     "title": "Zeedijk 2 555",
     "price": 365000,
     "address": "1154 PP Uitdam (Uitdam)",
@@ -1056,18 +1116,6 @@
     "date_scraped": "2025-08-24"
   },
   {
-    "title": "Heer van Rodestraat",
-    "price": 349000,
-    "address": "5731 VT Mierlo (Mierlo)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/a607b379-2d90-5201-b166-ff8f759e8544/27b39c84-b067-545c-8458-2ff9eb4f1b1c?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F241325928.webp%3Fcheck%3Dsha256%253A99afec0d99a3a535407b79bf84609172cdd4783bc602492c8e3cf3ae2533abe0%26resize%3D4%26selected%3D241325928%23foto241325928&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/mierlo/a607b379/heer-van-rodestraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-08-24"
-  },
-  {
     "title": "Ir. C.A. Kloosterhuisstraat 8",
     "price": 279500,
     "address": "8338 SG Willemsoord (Willemsoord)",
@@ -1464,18 +1512,6 @@
     "date_scraped": "2025-08-24"
   },
   {
-    "title": "Dokter Pinxterplantsoen 59",
-    "price": 350000,
-    "address": "1693 EW Wervershoof (Wervershoof Centrum)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/063c9e14-8984-51bf-8e97-42ef47e138a3/3e11be590dbd0b012721af002d2e69bd.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/wervershoof/063c9e14/dokter-pinxterplantsoen",
-    "provider": "Pararius",
-    "date_scraped": "2025-08-24"
-  },
-  {
     "title": "Deventerstraat 2 a",
     "price": 315000,
     "address": "4794 AJ Heijningen (Heijningen)",
@@ -1484,6 +1520,18 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/e13acae5-5852-5ec6-8f7b-d6203db7c56d/78ba1566e0ec1068a91ea9fceaa9ce07.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/heijningen/e13acae5/deventerstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-08-24"
+  },
+  {
+    "title": "Dokter Pinxterplantsoen 59",
+    "price": 350000,
+    "address": "1693 EW Wervershoof (Wervershoof Centrum)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/063c9e14-8984-51bf-8e97-42ef47e138a3/3e11be590dbd0b012721af002d2e69bd.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/wervershoof/063c9e14/dokter-pinxterplantsoen",
     "provider": "Pararius",
     "date_scraped": "2025-08-24"
   },
@@ -1712,54 +1760,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/994c2e2f-2e8c-55c8-a0cf-509ffbf9202a/505c2a05b9069439ea7d065848663262.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/heerhugowaard/994c2e2f/windmolen",
-    "provider": "Pararius",
-    "date_scraped": "2025-08-24"
-  },
-  {
-    "title": "Zoete Kroon",
-    "price": 375000,
-    "address": "4793 KB Fijnaart (Fijnaart)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/b6af45b0-395a-5888-9492-25c34386b72e/bc363a7b-c897-533c-98b5-c71eb6bb143c?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F241801730.webp%3Fcheck%3Dsha256%253Ac54a34b3d4963db4b56eb31ec2cc97483e30fa95fffd6c3ab9607499fd13d525%26resize%3D4%26selected%3D241801730%23foto241801730&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/fijnaart/b6af45b0/zoete-kroon",
-    "provider": "Pararius",
-    "date_scraped": "2025-08-24"
-  },
-  {
-    "title": "Het Brekkense Wiel 18",
-    "price": 359000,
-    "address": "8531 RS Lemmer (Lemmer-Frieslandpark)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5bd5a909-c6d7-5dc1-ae41-420061be334c/4670396736d208520f784559095157ec.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/lemmer/5bd5a909/het-brekkense-wiel",
-    "provider": "Pararius",
-    "date_scraped": "2025-08-24"
-  },
-  {
-    "title": "Boterbloem 79",
-    "price": 295000,
-    "address": "7772 NB Hardenberg (Baalderveld)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4c351b8c-7fab-50ed-9948-d54baf1900f3/afc9841858d8d131241b93fc77c8f7e0.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/hardenberg/4c351b8c/boterbloem",
-    "provider": "Pararius",
-    "date_scraped": "2025-08-24"
-  },
-  {
-    "title": "Nieuweweg",
-    "price": 439500,
-    "address": "9649 AE Muntendam (Muntendam-west)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/1b21232b-b0ad-51e2-92ef-fa72f2d79e45/ce1ea3b5-5ae4-550b-b100-a7842e72cd9b?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F240858784.webp%3Fcheck%3Dsha256%253A8a3950019f2a052704271d42f711642e8c322e708e92377b2d975dc5dca8b8d2%26resize%3D4%26selected%3D240858784%23foto240858784&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/muntendam/1b21232b/nieuweweg",
     "provider": "Pararius",
     "date_scraped": "2025-08-24"
   }
