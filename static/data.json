@@ -1,5 +1,293 @@
 [
   {
+    "title": "Heidebadweg 24",
+    "price": 415000,
+    "address": "8162 PS Epe (Buitengebied Epe West)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b973b50c-4430-5110-9390-999d1d7b85e0/793b04b55045ada780c93940724e86d1.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/epe/b973b50c/heidebadweg",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Daniëlsland 3",
+    "price": 279000,
+    "address": "4337 BV Middelburg (Dauwendaele II)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2270025e-3a6d-535e-a08f-6efd216cbf50/3365b73d2bda3f71f4b1938cf30ee33e.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/middelburg/2270025e/danielsland",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Stadhuisstraat 4",
+    "price": 359000,
+    "address": "4331 PK Middelburg (Stadhuis)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c0f17a56-72eb-520a-89af-b3483ac85b3d/9c3087ebf3bee2a05ae821d6bbb59d98.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/middelburg/c0f17a56/stadhuisstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Van Kanstraat 34",
+    "price": 325000,
+    "address": "6412 ZW Heerlen (Husken)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/735207e3-1545-5f00-926e-86fb0f2ccab0/1eb41de458bf7f3ea6dd40e31f72fa0c.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/heerlen/735207e3/van-kanstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Oktoberstraat 71",
+    "price": 395000,
+    "address": "1335 EN Almere (Seizoenenbuurt West)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5d9c9947-0ad5-5a24-877a-3082d7d9342b/d0aa048d07ab19d5918d614368c47cdc.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/almere/5d9c9947/oktoberstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "De Waarden 9",
+    "price": 325000,
+    "address": "7206 GA Zutphen (Waarden en weerdslag)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/72aa4ad7-e508-50d3-97a4-75fe04d90511/aba956da1bacf777ee8d63165d79121b.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/zutphen/72aa4ad7/de-waarden",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Zuiderkruis 5",
+    "price": 395000,
+    "address": "4907 VE Oosterhout (Sterrenbuurt)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6c90cbf7-fbe5-5f70-87a3-ba885c6cf75b/cd1045c7d7a7c91b64a82ae98d6477bd.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/oosterhout-nb/6c90cbf7/zuiderkruis",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Schaepmanstraat 45",
+    "price": 274045,
+    "address": "7103 GB Winterswijk (Winterswijk-Noordwest)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/dc3fed5d-5fad-5b21-863a-fdfbd6dff88a/f7e47cb753f2b702b1d995bb42e9921f.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/winterswijk/dc3fed5d/schaepmanstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Rietland 16",
+    "price": 295000,
+    "address": "4614 GC Bergen op Zoom (Meilust Noord)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b6df8a62-8926-52f9-9cd2-ef7f5c31efbd/039b15519c216fa06e30a4c3c831b0e9.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/bergen-op-zoom/b6df8a62/rietland",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "De Punter 25",
+    "price": 350000,
+    "address": "7908 DT Hoogeveen (Schutlanden-West)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/cc7b79f4-d473-5b17-a428-539f4f631934/f02035418c2e741362ce5158c4b959fb.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/hoogeveen/cc7b79f4/de-punter",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Pastoor Van Gervenstraat 21",
+    "price": 450000,
+    "address": "1566 DP Assendelft (Centrum)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/757e5dfd-3857-5931-84a6-fa3511b2202d/41b2feed6f9a7dad8be19ca0250d638e.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/assendelft/757e5dfd/pastoor-van-gervenstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Van Conventstraat 34",
+    "price": 350000,
+    "address": "3317 CH Dordrecht (Van Kinsbergenstraat en omgeving)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/34614501-54eb-554d-95a8-d9a679db064f/d14f789eb5399f737355bc33983f2fde.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/dordrecht/34614501/van-conventstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "C. van Leeuwenstraat 5",
+    "price": 450000,
+    "address": "3443 VW Woerden (Schilderskwartier)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/eb685b2b-1946-53d6-86fb-00107434315f/ae93febfa3f5fbd1922555fb8cfd0091.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/woerden/eb685b2b/c-van-leeuwenstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Tiny Imkampstraat 11",
+    "price": 375000,
+    "address": "6042 DZ Roermond (Vrijveld)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/25074a6e-b0bb-561a-b334-daf506d4b578/597b32696551cd041749d72efcce26b8.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/roermond/25074a6e/tiny-imkampstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Het Hof 43",
+    "price": 325000,
+    "address": "4751 JK Oud Gastel (Oud Gastel)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7c2fa3b7-c936-5b9d-9621-79d413b0cd93/5a592609e6c35e2e6348631d9ce2617f.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/oud-gastel/7c2fa3b7/het-hof",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Vanenburg 1",
+    "price": 449500,
+    "address": "7339 DM Ugchelen (Ugchelen)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e734f0ab-82e8-50bc-971f-a15aa2241adb/eef342aefc524b36b291dc034cf27207.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/ugchelen/e734f0ab/vanenburg",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Zwaardvegersveld 13",
+    "price": 450000,
+    "address": "7327 HN Apeldoorn (Matenveld)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ffd5f187-8104-5659-940e-676bc6a73337/c294e8d96516023cc5d68c9cb7de88c6.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/apeldoorn/ffd5f187/zwaardvegersveld",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Duiventoren 193",
+    "price": 315000,
+    "address": "4731 MS Oudenbosch (Spui)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0077f270-fb16-5258-862b-18e058eafa2a/8d3c65778626f5389eb4487a1525baa1.png?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/oudenbosch/0077f270/duiventoren",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Steenbergseweg 46",
+    "price": 427500,
+    "address": "4671 BH Dinteloord (Dinteloord)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5ff046e6-b494-55fb-8292-11958e45b4c0/ab9789a13193c782a872e1262bc2f077.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/dinteloord/5ff046e6/steenbergseweg",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Martinitorenstraat 141",
+    "price": 440000,
+    "address": "5037 AV Tilburg (Abdij- en Torenbuurt)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/294f5fcb-4313-502a-aafe-24fe04355b86/59a1f0e6410f966ede17ce4964751c5d.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/tilburg/294f5fcb/martinitorenstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Steenbergseweg 46",
+    "price": 427500,
+    "address": "4671 BH Dinteloord (Dinteloord)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/bcb766a5-a208-5896-979e-c56923b8521c/7d97285f1b57836483e0c3bda1d06370.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/dinteloord/bcb766a5/steenbergseweg",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Hertog Jan I-straat",
+    "price": 360000,
+    "address": "5341 RD Oss (Hertogenbuurt)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/164b0bf6-cbac-5c1d-ba4e-f02aa8cbfd98/737e5fe6-e9ac-5f70-a181-aa2ba3a91b03?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F237694494.webp%3Fcheck%3Dsha256%253A07c805867bb361af3dd773d87e2f0623ade169c79e0cfbe021892c6d5ef63a05%26resize%3D4%26selected%3D237694494%23foto237694494&width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/oss/164b0bf6/hertog-jan-i-straat",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Lucky Lukestraat 32",
+    "price": 395000,
+    "address": "1336 MK Almere (Stripheldenbuurt Zuid)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/bb868f19-10f8-52b8-890b-054bba3bc0dc/ce611513d949bfaf53d1f50c9617dcf0.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/almere/bb868f19/lucky-lukestraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Ureterperend 10",
+    "price": 289000,
+    "address": "9203 ZC Drachten (De Bouwen)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1c71c390-1ecd-5b71-aa90-8b0abf351f65/c4acb2af535ed5aae806178846ac8ba6.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/drachten/1c71c390/ureterperend",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
+  },
+  {
     "title": "Boeijerstraat 122",
     "price": 435000,
     "address": "1483 TL De Rijp (De Rijp)",
@@ -9,7 +297,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/f6c56189-ca94-5d72-aa92-d367e0476db6/960327027422fbcd7404fd05780eb439.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/de-rijp/f6c56189/boeijerstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Olmstraat 44",
@@ -21,7 +309,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/e6663aeb-dd56-5070-9f03-4972e7cc2e81/894be147ead155fff212992341ec75cb.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/echt/e6663aeb/olmstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Elisadonk 208",
@@ -33,7 +321,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/ee97f246-a2a1-5375-a4b6-d9cbdcb6da00/6668307d5bde06a032f5536ffafb8df2.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/roosendaal/ee97f246/elisadonk",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Koningin Wilhelminalaan 97",
@@ -45,7 +333,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/43c54c4b-8284-5927-ad5a-2aca7cdeddbf/e3a592ea0adc0330e7980a36c41c407f.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/swalmen/43c54c4b/koningin-wilhelminalaan",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Muldersdreef 134",
@@ -57,7 +345,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/dbf50701-e1ec-5dfd-ae6a-477712897f60/b9c406f009b0790ba50d2994a170e0ec.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/apeldoorn/dbf50701/muldersdreef",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Zonnehof 37",
@@ -69,7 +357,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/52cf9dfe-9775-597b-9b0e-69d87e38cf43/979cf9dacde1a83705d85eba29e23135.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/amsterdam/52cf9dfe/zonnehof",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Zomerstraat 14",
@@ -81,7 +369,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/59bc8bf8-923d-5431-b3ac-95ea904510aa/e7b4f108313ec4f0dbb3f438ccf2c34b.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/amsterdam/59bc8bf8/zomerstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Edvard Griegstraat 11",
@@ -93,7 +381,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/28fd7f96-6c99-5696-a555-d614fa2bc1b9/82064aa534ccf0a5dcddce32e03299bc.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/fijnaart/28fd7f96/edvard-griegstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Molenlaan 42",
@@ -105,7 +393,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/2008900a-b750-50e6-8ff6-64ff97c00024/0866adc302d187c15b8cfcf18393745d.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/susteren/2008900a/molenlaan",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Visarend 26",
@@ -117,7 +405,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/90779e9a-ded3-5c07-8cf1-db1e2fbc968f/d795c7dfc035c95f175ed9d258b8ef1e.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/tollebeek/90779e9a/visarend",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Europalaan 51",
@@ -129,7 +417,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/e2462eb2-26f6-5f96-8b23-aa73213c2e84/b5f6d84301dfed84d9d7e73d8588ad58.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/sas-van-gent/e2462eb2/europalaan",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "de Mérodestraat 13",
@@ -141,7 +429,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/72a365dc-d6f4-5101-8acc-badaa5918adb/30ca156e872e5bd3bb294b78f00df87c.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/zwijndrecht/72a365dc/de-merodestraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Schaapskuil 10",
@@ -153,7 +441,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/835197e5-2cb9-5282-9f48-8929d7ec8272/53863d4958cf912288e860abd694cfd4.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/bladel/835197e5/schaapskuil",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Westerzicht 297",
@@ -165,7 +453,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/379cb37f-60a0-5844-ac0d-f2d54de856a7/9b9788a150215c0c3b83ba1cfe072750.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/vlissingen/379cb37f/westerzicht",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Burgemeester de Regtstraat 18",
@@ -177,7 +465,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/ea613c98-14f9-557e-9661-53a4352c9208/8df0d74b728c2f65b255f97fd4480f8d.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/rucphen/ea613c98/burgemeester-de-regtstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Galjoenstraat 27",
@@ -189,7 +477,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/8f736be3-1a77-5c90-b3ce-c3a4ee181253/a4f907c64351d540bd4e31fafe0b39e2.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/zaandam/8f736be3/galjoenstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Prof. Eykmanlaan 15",
@@ -201,7 +489,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/a312a882-77ba-5bbc-bcd0-1564e71a1682/300b8cfaf9c7fe69f631e0f45da0990c.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/hoensbroek/a312a882/prof-eykmanlaan",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Liornestraat 141",
@@ -213,7 +501,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/04885840-1323-50a3-ab3a-45a4277c2d9d/1b7ba9d309a3e3a74954a03f6c2826dd.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/hoorn-nh/04885840/liornestraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Kulenrode 6",
@@ -225,7 +513,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/ee30a9c2-61da-5e96-8b54-cbc2b35fd05d/61eb61a57c738fadec4d2e8905797061.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/rotterdam/ee30a9c2/kulenrode",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Vijlenberg 181",
@@ -237,7 +525,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/de985459-287d-50d5-8be4-62618b5722bd/ede787bc6af8d0b1aca444eadc57f359.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/vijlen/de985459/vijlenberg",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Steenstraat 22",
@@ -249,7 +537,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/47e33dc5-8eb7-50f4-b572-b0d5c8a8ff28/0ea8baf50ef202f5285202807e6b0185.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/maasbracht/47e33dc5/steenstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Anna van Saksenstraat 118",
@@ -261,7 +549,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/53b63853-e9d6-5817-b6f7-0c185c39efe6/00d5ea52f6e161cc5c297c034b88dbd9.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/noord-scharwoude/53b63853/anna-van-saksenstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Houtmolen 24",
@@ -273,7 +561,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/21a7e950-f07d-502f-b0dc-e85d15f57df4/1fec0e60c5d085bc8560e1b9715b7af7.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/makkum/21a7e950/houtmolen",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Patrijspoort 37",
@@ -285,7 +573,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/d561fd42-cff6-5ab6-81bb-0c2165c354ec/cb543f898debcc43817bc65fe0309af0.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/groningen/d561fd42/patrijspoort",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Count Basiestraat 3",
@@ -297,7 +585,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/3c39f2ab-c6a6-521b-9f6c-65ce4032f37e/de754fc593b2f6476f0a664506227ca4.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/amersfoort/3c39f2ab/count-basiestraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Drie Decembersingel 127",
@@ -309,7 +597,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/f5cecd99-75d3-5231-ad53-dac677053d47/9b71ea18dffa349b39eae431ef5f67ce.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/venlo/f5cecd99/drie-decembersingel",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Secretaris Fleischeuerstraat 5",
@@ -321,7 +609,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/f36ec06d-ba78-5ea7-9a0a-d107d97ef949/de701c65daddc67f84c3a5d9bb18025a.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/oirsbeek/f36ec06d/secretaris-fleischeuerstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Pigmenthof 36",
@@ -333,7 +621,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/830b2cfa-fc6b-5a5b-9da5-84d4e15e0817/f3ccf52971a9535973dbc52eb9178d65.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/almere/830b2cfa/pigmenthof",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Ravelplantsoen 72",
@@ -345,7 +633,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/9b8255d6-1ab9-5f42-9a50-6131a1607841/b87550327493d1806c19cc98c1fc04e2.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/almere/9b8255d6/ravelplantsoen",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Luchtenstein 13 a",
@@ -357,7 +645,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/ec9155a3-5a2e-50f3-aaeb-e468839b9b86/2d7d5ad1fade9ac9a7d7c26a0be0c7b1.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/de-wijk/ec9155a3/luchtenstein",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Grettingalaan 86",
@@ -369,7 +657,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/8edf350e-a6a5-5239-89fd-704068c1d6be/82ef33dca8ab395c801185b0da2bcbb7.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/harlingen/8edf350e/grettingalaan",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Aerwinkelstraat 14",
@@ -381,7 +669,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/f24d852f-3755-5999-8b4a-ff525c2e1e71/d3be67d495dc92481219274ca3e23eb4.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/sittard/f24d852f/aerwinkelstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Herkingsezeedijk 17",
@@ -393,7 +681,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/6ff919ab-cea8-5151-ad68-2d29d8f79892/605eefd69991f392c3dfc11c54b003d7.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/herkingen/6ff919ab/herkingsezeedijk",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Orvallaan 11",
@@ -405,7 +693,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/e7f3e721-bb9a-5716-b936-35929b18264f/a4108b302d57a105e15d7f283377f719.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/eindhoven/e7f3e721/orvallaan",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Douvenderweg 6",
@@ -417,7 +705,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/953bb1db-a092-55f6-b84c-bd87c14ab768/43f5cf903357c57220022df1f4fd5535.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/oirsbeek/953bb1db/douvenderweg",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Tjalkstraat 24",
@@ -429,7 +717,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/9c8462e9-28f7-57dc-addd-4f9630fa6698/31b953c4d1c1ce80291b982f579ddb58.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/purmerend/9c8462e9/tjalkstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Kruiszwin 5524",
@@ -441,7 +729,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/2987fd41-ce76-57ad-b1a0-4f2bdcd844e7/ef54c388e2a5eedb5635cd9adccd4672.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/julianadorp/2987fd41/kruiszwin",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Bergplein 30",
@@ -453,7 +741,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/da7a255d-1971-5534-aa98-fdf6ddf0ce38/c0bddd825e7b5c2adcc650db0ed35b34.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/hoensbroek/da7a255d/bergplein",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Klaproosstraat 31",
@@ -465,7 +753,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/cdf02016-50b3-51ff-9c98-0eef1ebca7ed/b9aa0b941e3f2c5bb277ab19fe4c50e0.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/arnemuiden/cdf02016/klaproosstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Malvert 3034",
@@ -477,7 +765,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/b36c3c21-cabc-569e-b437-d8f2cac380bc/230ae15881e762a46431b5474526ab89.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/nijmegen/b36c3c21/malvert",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Bongelakker 19",
@@ -489,7 +777,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/83d99f58-9926-5598-a8db-47433395eb74/281c5008451d52a2e7125a47f16739d5.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/rijen/83d99f58/bongelakker",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Staakmolenstraat 35",
@@ -501,7 +789,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/5b5d20c3-e1ed-561e-8bc7-ce7d9567f83e/326f5820f50566aa0616c1a10c9489ac.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/almere/5b5d20c3/staakmolenstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Spinhuisweg 119",
@@ -513,7 +801,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/d1b8ad9c-0c20-5556-9a0b-2928b4379682/a7f1166b6a69a710cf58e45088f74483.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/middelburg/d1b8ad9c/spinhuisweg",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Laatbankstraat 42",
@@ -525,7 +813,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/b4ba0c95-a22a-530d-a0a4-b8b4d7484eaa/a00fabee60aa09f0a1c995932583527b.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/vaals/b4ba0c95/laatbankstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Mispelboom 24",
@@ -537,7 +825,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/f8358e58-8784-5301-a115-1d7b7a541975/219add3a38db8fb0dcf60d3f6056f4f5.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/holtum/f8358e58/mispelboom",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Corsicastraat 11",
@@ -549,7 +837,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/8b854ccc-76bd-5515-900c-66bd9842c185/ebcabfb2d509c863af1d674be504e93a.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/almere/8b854ccc/corsicastraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Bilzekruid 17",
@@ -561,7 +849,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/bca7ae2c-7328-5dd9-8331-24061ffb632c/d8d52f75423e94317c7f91a87e405cc9.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/nieuwerkerk-aan-den-ijssel/bca7ae2c/bilzekruid",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Glindhorst 6",
@@ -573,7 +861,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/3afdfe47-a2b6-5a96-81a2-3944453689e5/95e1cca7580ad67aa0e66a0785ec0136.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/de-glind/3afdfe47/glindhorst",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Lutterzandweg 12 B",
@@ -585,7 +873,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/018d8d85-c791-5281-a91f-84ae2644c461/b68471dd7640a9f9c674f5b6c89c321b.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/de-lutte/018d8d85/lutterzandweg",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Kruisbessenstraat 25",
@@ -597,7 +885,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/16bf0e66-edff-5f54-8cac-9fd3e2401a99/f6bfc6cd7fbbce126a1e0a08764ec5f5.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/rockanje/16bf0e66/kruisbessenstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Jacobus van der Waeyenstraat 24",
@@ -609,7 +897,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/ea0c50c3-81f2-59e0-9b29-6368b98ef2b9/f48c1bc98d38c3de77cbe768e09cadfe.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/koudum/ea0c50c3/jacobus-van-der-waeyenstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Schoneveld 1 G 145",
@@ -621,7 +909,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/76b15972-7b9a-5633-a0e3-890dea1baedb/2f0a05b1603fcbf512693c48c5586e14.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/breskens/76b15972/schoneveld",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Raadhuisstraat 18",
@@ -633,7 +921,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/8da66a6d-290a-5267-bd66-d86d01ba3439/47824903187de1362eb45d93b740ca68.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/hooge-zwaluwe/8da66a6d/raadhuisstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Sterappel 36",
@@ -645,7 +933,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/4590c2b4-cf98-57c1-9458-cb2d39f6a35f/5b28cc6aaca5bea6778cb2abeb73b063.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/fijnaart/4590c2b4/sterappel",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Koningin Julianalaan 16",
@@ -657,7 +945,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/aa42f628-1264-5fda-a6fd-bacd112434a8/4d58081b5df86d107b154c01541fb428.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/willemstad/aa42f628/koningin-julianalaan",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Koningin Emmastraat 14",
@@ -669,7 +957,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/bba0c4ce-8e01-503f-af78-b9a4d9597de3/5ff8f6d985205820aabeeef4113cf9f6.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/willemstad/bba0c4ce/koningin-emmastraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Sterappel 34",
@@ -681,7 +969,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/1b69f416-f01b-56c3-a1ed-bc5f4434a9c8/a0837e3d76da3712c07c2872c3a57c1f.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/fijnaart/1b69f416/sterappel",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Dagpauwoog 52",
@@ -693,7 +981,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/aac32e75-da69-5373-ab7e-d527513b1b4c/78f8cf17eed52e972ee47de85d604d70.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/someren/aac32e75/dagpauwoog",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Edisonstraat 14",
@@ -705,7 +993,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/0ffd24c1-5e15-5029-beff-66e3a6dea094/119e14ee862b7ad7670ee1b07d8d345e.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/heerlen/0ffd24c1/edisonstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Burgemeester de Sitterstraat 4",
@@ -717,7 +1005,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/993598cf-8ff1-5a26-87ff-cceef3a10410/f0a1797db281157438766e75c747b5a1.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/appingedam/993598cf/burgemeester-de-sitterstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Bunderstraat 54",
@@ -729,7 +1017,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/e9c772d2-125b-5401-9fe6-78ef843d173c/ef1d9afc4d8cb4fe78101351bfeba259.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/purmerend/e9c772d2/bunderstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Bachlaan 49",
@@ -741,7 +1029,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/4c89c847-3ebe-5963-944c-573d11093ad1/c17eb1d377c898542566d917bb87bbc7.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/landgraaf/4c89c847/bachlaan",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Wilgenhof 13",
@@ -753,7 +1041,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/13e699c2-47cd-59a9-b53d-4bd7565a51d8/59314381bc3d5dd84c251f4ecba8ae80.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/gendt/13e699c2/wilgenhof",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Zesde Slagen 7",
@@ -765,7 +1053,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/617cb739-007c-5e33-9047-a890ea47615b/e5c979b038227dacd80f00250502b33d.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/den-bosch/617cb739/zesde-slagen",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Suze Robertsonstraat 76",
@@ -777,7 +1065,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/8a30e138-b692-5c6f-9194-f60e1371eafb/9f2504d70c4be8dd22e4ab00639f71e6.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/ede/8a30e138/suze-robertsonstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Damstraat 89 E",
@@ -789,7 +1077,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/71e4efee-a199-58e6-b246-9e81d6a35783/b8f9ea2078908d2b0351512489a16160.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/dordrecht/71e4efee/damstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Willie Dixonstraat 14",
@@ -801,7 +1089,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/8a0ddaa2-5da7-52dc-b82b-90379be0aeb5/377374b7ac3a8b0f317b4bf8c0b77e08.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/middelburg/8a0ddaa2/willie-dixonstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Korenbloemstraat 7",
@@ -813,7 +1101,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/24d7520e-7733-5679-9a1c-34e9669fe548/f1a2c8c76c9e85518a2e07f760ca3b06.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/steenderen/24d7520e/korenbloemstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Stationsweg 92 410A",
@@ -825,7 +1113,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/dfa2938a-db9f-52c2-9846-468674760a43/7306815389595735e340d5cc49107fca.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/appartement-te-koop/ede/dfa2938a/stationsweg",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Moenenstraat 3",
@@ -837,7 +1125,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/62a7085d-484b-5efe-8b16-565503a5b3c5/1986d392d093d3a93f9eaeaf32da1b16.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/amersfoort/62a7085d/moenenstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Madoerastraat 123",
@@ -849,7 +1137,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/4f1c100b-33b1-5fb8-8df9-2892c153c60c/5aaeeb76ea768356cb127a3856cdf71f.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/vlaardingen/4f1c100b/madoerastraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Frederik Hendriklaan 17",
@@ -861,7 +1149,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/d7065206-e392-5a4a-93f3-d1995ded9df1/4157b9ce27e22d1188399df9c3ca136f.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/vlaardingen/d7065206/frederik-hendriklaan",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Beurtvaartstraat 36",
@@ -873,7 +1161,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/5ba1bc8f-bddc-5dab-8391-e6ddef65613c/025f7b6fc67d32cd10da45925208b3ff.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/apeldoorn/5ba1bc8f/beurtvaartstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Soetelaer 22",
@@ -885,7 +1173,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/e04f5d4a-6df9-5ae2-9455-6cf504acd03e/57c197b4ec942b5ae85b99b5e612fed3.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/kortgene/e04f5d4a/soetelaer",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Acaciahoven 13",
@@ -897,7 +1185,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/55ca1f97-7266-57b7-8a94-31baa7ed3db1/cdbcda6b22a745cd16ed0d393deb5e74.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/maastricht/55ca1f97/acaciahoven",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Habijt 4",
@@ -909,7 +1197,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/10aeabbd-6cb3-5cda-b0d6-411d3841df10/6f5f077a386de20d722dba30487e7d59.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/grootebroek/10aeabbd/habijt",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Serre 2",
@@ -921,7 +1209,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/520cb634-2235-51ed-8e18-3a130f16cb52/4545e6d76455080ec0c504aacdfb05ef.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/rijswijk/520cb634/serre",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Ceintuurbaan 4 76",
@@ -933,7 +1221,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/0c4063ee-f81d-5369-99a3-4e9e9905339d/28afbf050fbf8d79e7ce628bbfbc0323.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/harderwijk/0c4063ee/ceintuurbaan",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Lage Witsiebaan 67",
@@ -945,7 +1233,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/20b396d4-8499-5e05-bf2d-545d0df144e3/bfaa461a4c1c71696ba232e13b41f9f8.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/tilburg/20b396d4/lage-witsiebaan",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Graetheide 56",
@@ -957,7 +1245,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/f8adb533-f393-51cd-ac20-c8303a56a6e4/b730e01ba035d56fedcb04657de3c381.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/born/f8adb533/graetheide",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Koeweg 16 28",
@@ -969,7 +1257,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/d690b56f-9388-52b2-81d0-4e62406db5f8/25cfd1a10a679783edd1899bbe63295a.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/otterlo/d690b56f/koeweg",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Otello 75",
@@ -981,7 +1269,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/e75c234c-fc6d-513c-a322-7a2c89c58015/bd21d2a75bb003f5c2d735473cc7ccdc.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/eindhoven/e75c234c/otello",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Bourgondiëweg 195",
@@ -993,7 +1281,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/245d2f75-3e1b-57e7-adb6-6ce5e35b6be1/ad08929457f466c4a34f6623ab913052.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/grootebroek/245d2f75/bourgondieweg",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Grote Houw 309",
@@ -1005,7 +1293,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/f1a12292-39e0-5d14-b5b7-57ef5b132252/cf08d902b37c15c39c397a807b5017ef.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/breda/f1a12292/grote-houw",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Getfertplein 90",
@@ -1017,7 +1305,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/1ad723ef-5e01-5074-bc85-08ee04b9cc1f/45d3f14d8898149dfe8562890f90d9c3.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/enschede/1ad723ef/getfertplein",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Schalkhaarstraat 89",
@@ -1029,7 +1317,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/1fe0e769-a5c2-5faf-bc28-9d24c8e54768/371b1fefb82be875882586c742e3f327.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/tilburg/1fe0e769/schalkhaarstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Kromme Giessen 4",
@@ -1041,7 +1329,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/c653a2a2-f4af-5549-86c6-7c4aebbe9803/1112c0dc7eb2b185c57430a6b831f1ab.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/hoornaar/c653a2a2/kromme-giessen",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Platanenlaan 8",
@@ -1053,7 +1341,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/e816758e-d1a9-50ab-9503-eabeaf68993c/39ff4d4053c5d25f2d5335609b4a432f.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/sint-odilienberg/e816758e/platanenlaan",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Dasseburcht 14",
@@ -1065,7 +1353,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/65b5be28-88e9-551c-82a4-d8724e33a526/2e5ed61a1e461839a1515b05da55d254.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/etten-leur/65b5be28/dasseburcht",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "De Meent 50",
@@ -1077,7 +1365,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/30a93c99-6900-5f6f-99c0-34410b3b2865/7cacbe84301314941b1c217f6543172d.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/hasselt/30a93c99/de-meent",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Kentering 6",
@@ -1089,7 +1377,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/7e2d97c7-5872-5716-af6e-6128349f45de/4f751591b2a1f8fff4f7dd2a8bd93e12.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/hoogvliet-rotterdam/7e2d97c7/kentering",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Saturnusstraat 38",
@@ -1101,7 +1389,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/61e3c574-9eac-5efe-b45a-f221a9175ffb/943e0f9b064002be11a05c6ecd890280.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/roermond/61e3c574/saturnusstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Jaagmeent 34",
@@ -1113,7 +1401,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/2fcda7d0-e6e6-58ea-9f1f-6cb4e83e26b0/9e01a1b87dce75cb4b60633d7508931d.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/almere/2fcda7d0/jaagmeent",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Narcisveld 7",
@@ -1125,7 +1413,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/afa1e2f4-2c46-58b0-9d58-94f92e57fb84/a9a5c6c4eb183473d98e1d3d5af0f930.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/nieuwerkerk-aan-den-ijssel/afa1e2f4/narcisveld",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Slikkerdijk 8",
@@ -1137,7 +1425,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/c3621652-6f4e-5fce-b9ee-93af42a1ec4d/dd1a7f4f564bcd3b5b56590370fe3600.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/wervershoof/c3621652/slikkerdijk",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Groenewoud",
@@ -1149,7 +1437,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/f966f0bf-bdb5-5fb6-add1-a341fbe9f1a6/19e51fde-38f5-5dac-8d4c-a8f99e979bd0?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F235495658.webp%3Fcheck%3Dsha256%253A2c9197661ec4712b574ff881f7e2221d5abab83400937d00a067e0a2062c66ac%26resize%3D4%26selected%3D235495658%23foto235495658&width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/vlissingen/f966f0bf/groenewoud",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Portelstraat 42",
@@ -1161,7 +1449,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/e3f2bf91-f099-5c7d-bdfa-6b6aa64dab41/ca7d85a7f427a92b94105d95d9bab9ca.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/purmerend/e3f2bf91/portelstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Sint Annastraat 8",
@@ -1173,7 +1461,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/9144d587-2290-53a9-9627-b794cc7d9314/2ecca5edac91b44e607e8ec32dc9c9ac.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/reuver/9144d587/sint-annastraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Oude Veensegrindweg 76 18",
@@ -1185,7 +1473,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/83c8f2fc-e5c9-5963-b580-a2ed710a806e/344f15e87b4df0e51896827eed6d3e50.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/rhenen/83c8f2fc/oude-veensegrindweg",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Kievitstraat 10",
@@ -1197,7 +1485,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/5938df80-ba8a-5117-8910-5e462517c5b9/46148586c610080f94c7f428e484a481.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/reusel/5938df80/kievitstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Schoolstraat 12",
@@ -1209,7 +1497,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/2d79732d-1703-5dec-8ae1-ae731e92a449/a2ff9b9533dd5849015dfebd78e1a125.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/sint-annaland/2d79732d/schoolstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Schepen Cruysanckerstraat 13",
@@ -1221,7 +1509,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/3db2d4c6-951c-5d5b-8506-30a2df075666/191fe8ea496d164028467b2bf21e3ef4.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/roermond/3db2d4c6/schepen-cruysanckerstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "De Amazone 5",
@@ -1233,7 +1521,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/2011d5e7-83a6-53e0-aa49-4b27252b4526/f826923d24da21b5c7b8c0dd5ff17310.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/dronten/2011d5e7/de-amazone",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Mansardehof 7",
@@ -1245,7 +1533,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/fa008c57-7cbd-586c-9167-2cf87875bdf6/773eac04286f4dab945f3148e5cf5f26.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/apeldoorn/fa008c57/mansardehof",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "De Kommert 24",
@@ -1257,7 +1545,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/3c1b18b1-7fb6-5258-b563-b03b20205da6/43b695eb71eacd4498af6b9f480166a3.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/heerlen/3c1b18b1/de-kommert",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Houtsnijdershorst 616",
@@ -1269,7 +1557,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/34b8e72c-8015-5481-acda-cf086abc9e45/4b5a1bc9b3095ff9770c61c18b328a57.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/apeldoorn/34b8e72c/houtsnijdershorst",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Saturnuslaan 45",
@@ -1281,7 +1569,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/488238f1-3c30-5fd4-bcbd-1f1abf47f193/7c71ac998ee36254c29332f716240c40.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/heerhugowaard/488238f1/saturnuslaan",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Lijsterlaan 24",
@@ -1293,7 +1581,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/5fda1b6d-b664-578d-aa55-e7f7adbba819/826b3ca6e4c3fcfc6ea72868619b9c12.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/beek-en-donk/5fda1b6d/lijsterlaan",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Kalkestraat 2 a",
@@ -1305,7 +1593,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/faaf312e-3181-5f10-b8f7-88c7a8852382/b6377c183667a738b408287bb9a37588.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/dodewaard/faaf312e/kalkestraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Amkemaheerd",
@@ -1317,7 +1605,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/ed01d441-a8d1-521c-8e73-b99afae1ce60/aadd1b12-6e8d-5e53-915d-537fd6af6c32?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F237209930.webp%3Fcheck%3Dsha256%253A4a0fbf5d676b67626b6454757d6cbe12aad76ec7bbdb944e4e7eeec8869a0a79%26resize%3D4%26selected%3D237209930%23foto237209930&width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/groningen/ed01d441/amkemaheerd",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Haver 56",
@@ -1329,7 +1617,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/9bfc162d-f89a-5395-87a1-6a052f7b9a24/525b0031e16b93d36129e09ddadb2426.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/leveroy/9bfc162d/haver",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Jacobusstraat 13",
@@ -1341,7 +1629,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/ef9e1db8-1c90-5bec-8a84-f9c905a68832/66272419f62046722e043beeb7818f86.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/bocholtz/ef9e1db8/jacobusstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Johan Buziaustraat 22",
@@ -1353,7 +1641,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/ecec2856-8a85-5a76-80bf-abccf1d05d9f/621fdfd52f1ece883154b96a123b64dc.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/hengelo/ecec2856/johan-buziaustraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Watersnip 26",
@@ -1365,7 +1653,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/fbd497f9-4d11-5813-b059-cf3740ad1db0/be04cfd614546f608834e261f5431056.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/ijsselmuiden/fbd497f9/watersnip",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Houtsnip 13",
@@ -1377,7 +1665,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/201fb994-c056-5d63-b91a-a50aae111b8a/f0f5e42794206404e4dee071f8bf7211.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/weert/201fb994/houtsnip",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Graveerstift 45",
@@ -1389,7 +1677,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/2c9842a8-1010-5db3-a7c5-bfd4bb82f772/4ee3c5aa452e3124b7d50f2ad774af88.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/dordrecht/2c9842a8/graveerstift",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "De Mortelkes 9",
@@ -1401,7 +1689,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/aba37f7f-d2c0-5ffc-b8e5-1609fb1902dc/fccfa2cf5314605b7e2614bc49064c58.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/erp/aba37f7f/de-mortelkes",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Frank van Borselenstraat 35",
@@ -1413,19 +1701,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/2609d4dd-10b5-51f5-a551-55cafe913fa8/daf103bdd31574bf4d335dfe65d68b75.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/brielle/2609d4dd/frank-van-borselenstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Churchilldreef 75",
-    "price": 435000,
-    "address": "6716 HL Ede (De Dreven)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6ee28f0d-21a8-533e-a5c7-8774d5b3bfd1/2a0d9748a936998812d9d6b334fa7465.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/ede/6ee28f0d/churchilldreef",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Koelhorst 38",
@@ -1437,7 +1713,19 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/47b376f6-fe45-5434-b89d-3d8b7f30862c/b432bda1c915ff0e004f562c217d5d43.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/ede/47b376f6/koelhorst",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
+  },
+  {
+    "title": "Churchilldreef 75",
+    "price": 435000,
+    "address": "6716 HL Ede (De Dreven)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6ee28f0d-21a8-533e-a5c7-8774d5b3bfd1/2a0d9748a936998812d9d6b334fa7465.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/ede/6ee28f0d/churchilldreef",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Perengaarde 52",
@@ -1449,7 +1737,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/2865efbc-f329-51b5-8c41-70c5037b46c0/af0c22a415e00f7a26737230393c1032.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/hendrik-ido-ambacht/2865efbc/perengaarde",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Hanne Bruininghstraat 63",
@@ -1461,7 +1749,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/26078ad9-368a-5c90-9b62-506b609269dc/a61da8533480f4da1f97f079205f9451.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/musselkanaal/26078ad9/hanne-bruininghstraat",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Opaalhof 7",
@@ -1473,7 +1761,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/6180fadd-b236-5238-8622-62c37784b1a0/ccc0dfaac00eea7b7a9d53ca7c7bdf18.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/almere/6180fadd/opaalhof",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Wolfspoot 24",
@@ -1485,7 +1773,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/f6ea95aa-65dd-55e5-8a8c-c7f390ac315e/4839c0bdb1419d841fa53adbbed80f2c.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/alblasserdam/f6ea95aa/wolfspoot",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Schouw 4",
@@ -1497,7 +1785,7 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/eb02de10-9e5c-5f12-9a50-05f617d17d43/df4b33c16e024035b182f99afffbb182.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/hardinxveld-giessendam/eb02de10/schouw",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   },
   {
     "title": "Wooldseweg 72 a",
@@ -1509,294 +1797,6 @@
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/e5a50d08-3843-576d-b3ff-709d28439024/b169126397e5bc814dae66fbe137c884.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/winterswijk-woold/e5a50d08/wooldseweg",
     "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Marslaan 48",
-    "price": 300000,
-    "address": "5702 HD Helmond (Eeuwsels)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ffa4b16d-ed7d-5677-8e5c-f2ecae8f3fc5/339c8f611c8594a5782983e2037ff749.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/helmond/ffa4b16d/marslaan",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Ardennen 51",
-    "price": 425000,
-    "address": "5706 RD Helmond (Gansenwinkel)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/3c4d2b32-4153-5ecb-977e-105f62e8bae7/c32d3a600510f2e3cf1c5e0e4be41607.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/helmond/3c4d2b32/ardennen",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Zeepziederstraat 3",
-    "price": 389000,
-    "address": "1825 GK Alkmaar ('t Rak-Zuid)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/23892508-0d7e-55bf-aa15-f8019ffbfaca/9f8cd143a12afaca1b6106dda074da8f.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/alkmaar/23892508/zeepziederstraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Händelhof 43",
-    "price": 425000,
-    "address": "2402 GV Alphen aan den Rijn (Componistenbuurt-Noord)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4a4df74d-7a73-5b82-8a5c-e78627454034/2c8cf726a672940df16c917a7873ace1.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/alphen-aan-den-rijn/4a4df74d/haendelhof",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Stormramruwe 18",
-    "price": 429000,
-    "address": "6218 WC Maastricht (Malberg)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/00c2ddc7-3d6c-5b76-9ff0-f2d93eb604bb/92054b34c0861262538f43e4baef33ec.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/maastricht/00c2ddc7/stormramruwe",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Cypergrasweg 9",
-    "price": 440000,
-    "address": "1313 AK Almere (Kruidenwijk Noord- midden)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f9740d57-44a5-5a82-a2c4-f1326a8800b7/8a24081efb37bbcc68d24d914cdc0b07.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/almere/f9740d57/cypergrasweg",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Provincialeweg 16",
-    "price": 275000,
-    "address": "4581 RN Vogelwaarde (Buitengebied Vogelwaarde)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c0003db7-9c59-5030-bc16-763412f1fdb2/57a66089d2a35d1b2a73b0c0d2266a6a.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/vogelwaarde/c0003db7/provincialeweg",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Brunninkhuisweg 3 C43",
-    "price": 128000,
-    "address": "7662 PH Hezingen (Verspreide huizen Hezingen)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/69dcc261-e970-59bc-8ebb-e4ec7093eb20/a7a8cd26233181d7938b4618fd2c3c1e.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/hezingen/69dcc261/brunninkhuisweg",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Wommelserweg 5",
-    "price": 375000,
-    "address": "8804 NK Tzum (Tzum)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c030b6e6-424f-5d40-8d8f-fd1c1ae078a4/7600a9910c8401bc04a6f55ab9305001.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/tzum/c030b6e6/wommelserweg",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Tienelsweg 48 343",
-    "price": 100000,
-    "address": "9471 PC Zuidlaren (Westlaren Noord)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b571dae8-ecd0-53fe-a565-4a0995a82de2/e53081d5a4595f12d9ab4bbf637ee9e7.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/zuidlaren/b571dae8/tienelsweg",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Sint Matthijsstraat 13",
-    "price": 398000,
-    "address": "1624 XK Hoorn (Hoorn Noord - Buurt 12 01)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4858780d-e926-53ba-9f68-dbb9c6266e7c/5fc120c579ba2ab3f608c7a93a723f76.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/hoorn-nh/4858780d/sint-matthijsstraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Paardebloem 131",
-    "price": 395000,
-    "address": "1689 RT Zwaag (Risdam-Noord - Buurt 21 03)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b01ca219-617c-519f-b0e3-6183389fe0e5/35838b96cd794fd8b4abcbb7ca2c8cc2.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/zwaag/b01ca219/paardebloem",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Prins Hendrikstraat 22",
-    "price": 339000,
-    "address": "5951 ER Belfeld (Kern Belfeld)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/301738d7-6083-5a29-8caa-bd1ae92afe8b/d0fe71dafee65e8e91417409a9bf5511.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/belfeld/301738d7/prins-hendrikstraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Prinsenpad 33",
-    "price": 450000,
-    "address": "1312 AL Almere (Staatsliedenwijk West)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ea20fd86-cb2f-556a-9174-0c0458fc8a45/e1f6fe8accd6b305015dd56aad99d379.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/almere/ea20fd86/prinsenpad",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Warmoltsstrjitte 83",
-    "price": 419000,
-    "address": "9281 PM Harkema (Harkema)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a28e76fe-c648-5e82-a9eb-507c3eed1832/1adcc1833470e75ce98174d3f18b1bb4.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/harkema/a28e76fe/warmoltsstrjitte",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Petrus Dondersstraat 1",
-    "price": 449000,
-    "address": "6413 CJ Heerlen (Pronsebroek)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/98f5cfa3-a9c3-5448-8953-51a01522f40d/02bbb0d2222705639ec234b68215895b.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/heerlen/98f5cfa3/petrus-dondersstraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Kempenland 55",
-    "price": 450000,
-    "address": "1447 CV Purmerend (Purmer-Zuid/Noord)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8686d731-7e8b-5308-a060-6d85d71d1565/b980275a8125d8c95f409bc0a48d4626.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/purmerend/8686d731/kempenland",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Rubenspark 7",
-    "price": 375000,
-    "address": "5121 WN Rijen (Schildersbuurt)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/70334a2e-f3e1-5365-b49c-8c1aacb61c3b/57f4133f20192e42650e7ae37ee22595.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/rijen/70334a2e/rubenspark",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Dakotaweg 16",
-    "price": 450000,
-    "address": "2905 AC Capelle aan den IJssel (Beemster/Purmerhoek)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/31c31b80-a4f1-5759-973a-f9db1d69166a/3a71cab3a64a9bd263ee5d6d59652a03.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/capelle-aan-den-ijssel/31c31b80/dakotaweg",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Luciastraat 36",
-    "price": 329000,
-    "address": "6015 BA Neeritter (Kern Neeritter)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6586a188-3546-5cb8-8884-dc01ae902076/0813df23a2b1860a2a616c51e3863949.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/neeritter/6586a188/luciastraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Ary Scheffersingel 8",
-    "price": 440000,
-    "address": "3351 BC Papendrecht (Schildersbuurt)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/01f6c175-50ee-512f-883f-b1ba3cd36dde/e71d9f7f13e9811fdf846f85eff61e59.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/papendrecht/01f6c175/ary-scheffersingel",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Akkerwinde 36",
-    "price": 445000,
-    "address": "2742 DV Waddinxveen (Groenswaard 2)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/89eed77f-10c2-5b1f-b938-e38b8e6b1bd1/603ea3c3ae35d3498c8b59e14d956994.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/waddinxveen/89eed77f/akkerwinde",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "Citroenvlinder 172",
-    "price": 400000,
-    "address": "7943 RD Meppel (Vlinderbuurt)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/30696de8-1383-5f4d-bf6c-14b0a0d01cff/c339d787d2cb6b554c9eb0a720eca261.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/meppel/30696de8/citroenvlinder",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
-  },
-  {
-    "title": "De Kogge 6",
-    "price": 329500,
-    "address": "7908 EA Hoogeveen (Schutlanden-West)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6ad13a73-ac7a-5f7c-ae69-2bd28d125ed3/102b4b8f23abb47beaf2836c9ab05ce6.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/hoogeveen/6ad13a73/de-kogge",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-02"
+    "date_scraped": "2025-09-03"
   }
 ]
