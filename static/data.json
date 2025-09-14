@@ -1,5 +1,29 @@
 [
   {
+    "title": "Broekstraat 11",
+    "price": 419000,
+    "address": "6051 JZ Maasbracht (Brachterbeek)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/de90c272-2c9e-54de-a88d-e4325fcb8c31/fab66a5e6a136480292ac3c8a7439dd1.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/maasbracht/de90c272/broekstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-14"
+  },
+  {
+    "title": "Oderstraat",
+    "price": 450000,
+    "address": "8226 MP Lelystad (Rivierenbuurt)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e5fe8c22-2f7d-5cd7-a686-7d39b2227f1b/5b31e2ab0098c664c80d625964b548d7.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/lelystad/e5fe8c22/oderstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-09-14"
+  },
+  {
     "title": "Hertogshoef 13",
     "price": 335000,
     "address": "4941 KA Raamsdonksveer (Hooipolder en De Hoeven)",
@@ -1748,30 +1772,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/d4d6ab57-bc50-59ff-863c-b9bfd7b381f8/6652d1e78abb8fe7b2bbeb932072deb0.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/hoorn-nh/d4d6ab57/koolmees",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-14"
-  },
-  {
-    "title": "Ceder 90",
-    "price": 400000,
-    "address": "1628 MZ Hoorn (Kersenboogerd-Zuid - Buurt 33 03)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a9409890-4fec-5cf2-ad00-5032db4a8c9f/8ba741d73f1df8099a1daf15e3f054be.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/hoorn-nh/a9409890/ceder",
-    "provider": "Pararius",
-    "date_scraped": "2025-09-14"
-  },
-  {
-    "title": "August Vördingstraat 112",
-    "price": 309000,
-    "address": "7558 AK Hengelo (Tijertshoek)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/83c41e49-5ce8-5d8a-a8ef-f8c1801a51c7/247714d7135e12faeaf7f5fbb8fe15c1.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/hengelo/83c41e49/august-voerdingstraat",
     "provider": "Pararius",
     "date_scraped": "2025-09-14"
   }
