@@ -1,5 +1,77 @@
 [
   {
+    "title": "Bingerdenseweg",
+    "price": 325000,
+    "address": "6983 GH Doesburg (Beinum I)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/ddc1885d-172f-522d-adb9-ac64ca0d7e0c/f6051b5a-2614-50e7-b277-590329ac89ed?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F248853332.webp%3Fcheck%3Dsha256%253Ac065df8f54f3fa859a3e9053e3f2d6a837e2c78ad20889f1659d41b7e77d0312%26resize%3D4%26selected%3D248853332%23foto248853332&width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/doesburg/ddc1885d/bingerdenseweg",
+    "provider": "Pararius",
+    "date_scraped": "2025-10-12"
+  },
+  {
+    "title": "Kennemerbeek 23",
+    "price": 450000,
+    "address": "1509 EM Zaandam (Kalf)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/cb7c22d5-44c7-5f29-97d9-ae4d07f9766c/db41bba538c5881808b1f4c5fc0013ce.png?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/zaandam/cb7c22d5/kennemerbeek",
+    "provider": "Pararius",
+    "date_scraped": "2025-10-12"
+  },
+  {
+    "title": "Geuzenstraat 2",
+    "price": 429000,
+    "address": "4521 CC Biervliet (Kern Biervliet)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e55c3789-72b3-5e5e-8b51-465bab574bbf/23887df17624940d3e1404aa4f544773.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/biervliet-terneuzen/e55c3789/geuzenstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-10-12"
+  },
+  {
+    "title": "Ekenstein 75",
+    "price": 365000,
+    "address": "8226 RH Lelystad (Landerijen Noord/West)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/7bb72cb3-e5f1-5b0a-b56e-dffe0cc71e8b/a8c1ffcb8d366a68df122e9c392983ae.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/lelystad/7bb72cb3/ekenstein",
+    "provider": "Pararius",
+    "date_scraped": "2025-10-12"
+  },
+  {
+    "title": "De Velduil 41",
+    "price": 399000,
+    "address": "8862 LR Harlingen (Oosterpark)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f0b92ceb-b8e1-5e96-b248-40c1e2d06f5f/e1d5dcc380a8d373f0168bd3ce415ce3.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/harlingen/f0b92ceb/de-velduil",
+    "provider": "Pararius",
+    "date_scraped": "2025-10-12"
+  },
+  {
+    "title": "Hanerak 9",
+    "price": 329500,
+    "address": "8862 DD Harlingen (Oosterpark)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9f1d0fbb-0091-5805-b139-5b92bd31f311/8671df16704f0f369239c0cdee75023c.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/harlingen/9f1d0fbb/hanerak",
+    "provider": "Pararius",
+    "date_scraped": "2025-10-12"
+  },
+  {
     "title": "Harmonielaan 38",
     "price": 429000,
     "address": "3438 EC Nieuwegein (Huis de Geer)",
@@ -1404,18 +1476,6 @@
     "date_scraped": "2025-10-12"
   },
   {
-    "title": "Manderscheidtsingel 16",
-    "price": 287500,
-    "address": "6017 GC Thorn (Thorn)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/6479dc8c-c863-528c-b09b-eb27be85d072/c5b1409e2d34fce8089f7a089253fa7f.png?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/thorn/6479dc8c/manderscheidtsingel",
-    "provider": "Pararius",
-    "date_scraped": "2025-10-12"
-  },
-  {
     "title": "Churchill-laan 50",
     "price": 419000,
     "address": "5571 AB Bergeijk (Hagelkruis e.o.)",
@@ -1700,66 +1760,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/b511733e-63b7-577a-8820-2f0a41cfe706/33abc7fbb1187a1f83c2f5f94bce7fa2.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/purmerend/b511733e/baardmosstraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-10-12"
-  },
-  {
-    "title": "Visartstraat 40",
-    "price": 189500,
-    "address": "4541 BB Sluiskil (Kern Sluiskil)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/e7d50bf7-51e7-5d12-a56d-77a35d3dedec/1598bfe1136917a63883a36c3aeb9039.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/sluiskil/e7d50bf7/visartstraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-10-12"
-  },
-  {
-    "title": "Jan Vermeerstraat",
-    "price": 325000,
-    "address": "7482 EN Haaksbergen (Zienesch)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/07a82e40-612d-5a83-b572-88bc08fe1b15/aa1bea62-fd41-5ba4-af98-56c4358eb331?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F246388480.webp%3Fcheck%3Dsha256%253A570e24fb0910eb0f911e68244a92fb60102ddcc578b1907eae516e96e7e856a5%26resize%3D4%26selected%3D246388480%23foto246388480&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/haaksbergen/07a82e40/jan-vermeerstraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-10-12"
-  },
-  {
-    "title": "Abraham Steenhagenstraat 20",
-    "price": 215500,
-    "address": "7603 SN Almelo (Rumerslanden)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b81d718f-325e-5b27-bf68-1d106a7f6160/937c76d532e93dacde59c64ec5a24e97.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/almelo/b81d718f/abraham-steenhagenstraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-10-12"
-  },
-  {
-    "title": "Weldamsingel 14",
-    "price": 349500,
-    "address": "3077 RM Rotterdam (Beverwaard)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/19c3c9fc-a0ba-5c3a-bdfb-88a6d2a308c6/fd42f8bb55b9fa8d2b7e9742a9fc65cd.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/rotterdam/19c3c9fc/weldamsingel",
-    "provider": "Pararius",
-    "date_scraped": "2025-10-12"
-  },
-  {
-    "title": "Steffenberg",
-    "price": 335000,
-    "address": "6595 BH Ottersum (Ottersum)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/b18bf818-d7aa-5485-b463-cb7ce62568f1/450d5741-e57d-5af9-b650-0fb77b995aba?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F248880378.webp%3Fcheck%3Dsha256%253Ac30352e1e1c770893542ad85f11270d1c2e955db46327e15a9a722d89185435b%26resize%3D4%26selected%3D248880378%23foto248880378&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/ottersum/b18bf818/steffenberg",
     "provider": "Pararius",
     "date_scraped": "2025-10-12"
   }
