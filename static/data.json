@@ -1,5 +1,41 @@
 [
   {
+    "title": "'t Zand 48",
+    "price": 385000,
+    "address": "4823 HP Breda (Overkroeten)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/d689b818-240a-5031-b355-c986a5d4d8cf/5639ba4225b28699664485418b670f01.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/breda/d689b818/t-zand",
+    "provider": "Pararius",
+    "date_scraped": "2025-10-26"
+  },
+  {
+    "title": "Taxandriahof 4",
+    "price": 385000,
+    "address": "5141 KM Waalwijk (Centrum)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/06ee144c-247d-5592-b388-5b94ffeaea99/fed447a0ebfd533b27572aa8d79e3375.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/waalwijk/06ee144c/taxandriahof",
+    "provider": "Pararius",
+    "date_scraped": "2025-10-26"
+  },
+  {
+    "title": "Zonnedauw 17",
+    "price": 419000,
+    "address": "5731 TX Mierlo (Mierlo)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ad1c120e-dfd7-5f32-bee7-545f21e5b7ee/664a6fe5260a1dd8ca1b7100549f15f8.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/mierlo/ad1c120e/zonnedauw",
+    "provider": "Pararius",
+    "date_scraped": "2025-10-26"
+  },
+  {
     "title": "Vuurdoornstraat 34",
     "price": 375000,
     "address": "2165 CJ Lisserbroek (Lisserbroek)",
@@ -1590,7 +1626,7 @@
     "size": 50.0,
     "energy_label": "Onbekend",
     "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/aa441f6e-9fb4-5648-b3f9-892f9f96ef7d/3d47e3ecff7fe615cc2f9fc5aba9c0d0.jpg?width=600&auto=webp",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/aa441f6e-9fb4-5648-b3f9-892f9f96ef7d/975a249c7847b724db88be0e07cdc457.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/brunssum/aa441f6e/hazelaar",
     "provider": "Pararius",
     "date_scraped": "2025-10-26"
@@ -1700,42 +1736,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/40c57778-3b9a-5926-96e2-210791812fe6/43ed1efa03f0c878fdada9093d6345ed.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/oosterland/40c57778/suzanna-maria-loncquestraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-10-26"
-  },
-  {
-    "title": "Mayersloot 21",
-    "price": 439000,
-    "address": "1721 GH Broek op Langedijk (Mayersloot Zuid)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/09b604e6-a28c-5530-8469-0fb4ac51fe17/c2a0f8bc80ea52dcafefbf338d2e3c09.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/broek-op-langedijk/09b604e6/mayersloot",
-    "provider": "Pararius",
-    "date_scraped": "2025-10-26"
-  },
-  {
-    "title": "Sint Victor 3",
-    "price": 395000,
-    "address": "5571 RL Bergeijk (Beistervelden)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2ea02d8c-07ef-5fb1-a8ba-94827a626d48/d5f6fdbe63bb994b34a265fa62cf4d4e.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/bergeijk/2ea02d8c/sint-victor",
-    "provider": "Pararius",
-    "date_scraped": "2025-10-26"
-  },
-  {
-    "title": "Boltelaan 3",
-    "price": 425000,
-    "address": "7431 ZE Diepenveen (Dorp Diepenveen)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b7f44197-a798-5bb8-88d9-8eae223996b7/b10fec688144150a864e383274b79d89.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/diepenveen/b7f44197/boltelaan",
     "provider": "Pararius",
     "date_scraped": "2025-10-26"
   }
