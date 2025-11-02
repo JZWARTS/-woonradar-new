@@ -1,5 +1,53 @@
 [
   {
+    "title": "Leeuwstraat 68",
+    "price": 400000,
+    "address": "1338 BN Almere (Faunabuurt Noord)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/f4a66bc6-6f2b-52c0-9284-703cbe18645c/35143d7ce86b7a7c56c68aa52aae0d36.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/almere/f4a66bc6/leeuwstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-11-02"
+  },
+  {
+    "title": "Bosberg 61",
+    "price": 199000,
+    "address": "6464 HG Kerkrade (Vink)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0ad18110-2574-567f-b0cd-5dcbdfefe344/190f98d9c71632d44bc1b428df4920e2.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/kerkrade/0ad18110/bosberg",
+    "provider": "Pararius",
+    "date_scraped": "2025-11-02"
+  },
+  {
+    "title": "Jan Schamhartstraat",
+    "price": 450000,
+    "address": "8121 CP Olst (Kortrick en Zonnekamp)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/f7989dd8-9718-5a62-aa25-b4a6dd1ab194/9e4ae238-a7fc-5258-aeed-4a86ecf8251a?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F251920578.webp%3Fcheck%3Dsha256%253A81d535fe5ef8a28727a855179692aa469b570f05e74122cdbd49994c62a73a17%26resize%3D4%26selected%3D251920578%23foto251920578&width=600&auto=webp",
+    "link": "https://www.pararius.nl/appartement-te-koop/olst/f7989dd8/jan-schamhartstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-11-02"
+  },
+  {
+    "title": "Erasmusdomein",
+    "price": 399000,
+    "address": "6229 GB Maastricht (Randwyck)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/2a73cfb7-44e0-5a88-ba98-224d765de9af/aeabaf76-992b-5fa2-8c94-64b926d02e44?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F251235916.webp%3Fcheck%3Dsha256%253Aade240c2f2a7906b261a1b62ad54f97187fce0d5da2143be03fabe54b843a923%26resize%3D4%26selected%3D251235916%23foto251235916&width=600&auto=webp",
+    "link": "https://www.pararius.nl/appartement-te-koop/maastricht/2a73cfb7/erasmusdomein",
+    "provider": "Pararius",
+    "date_scraped": "2025-11-02"
+  },
+  {
     "title": "Eversdijk 6 a",
     "price": 200000,
     "address": "7468 PV Enter (Verspreide huizen Waterhoek)",
@@ -1488,18 +1536,6 @@
     "date_scraped": "2025-11-02"
   },
   {
-    "title": "Zolastraat",
-    "price": 325000,
-    "address": "5924 AV Venlo (Vossener-Zuid)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/71f9cd1b-8ee7-55ab-ab2d-6b7b60876b01/1c45bcec-c84e-576c-b0fa-9e165590ff38?original_uri=https%3A%2F%2Fwww.hauzerenpartners.com%2Fimg%2Frealestate%2F248447302.jpg&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/venlo/71f9cd1b/zolastraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-11-02"
-  },
-  {
     "title": "Diderotstraat",
     "price": 425000,
     "address": "5924 EG Venlo (Vossener-Zuid)",
@@ -1508,6 +1544,18 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/861d1a62-6a1b-5618-b55c-87cd966027eb/4fa41efd-b459-597e-921f-345684e80a1d?original_uri=https%3A%2F%2Fwww.hauzerenpartners.com%2Fimg%2Frealestate%2F230682596.jpg&width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/venlo/861d1a62/diderotstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-11-02"
+  },
+  {
+    "title": "Zolastraat",
+    "price": 325000,
+    "address": "5924 AV Venlo (Vossener-Zuid)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/71f9cd1b-8ee7-55ab-ab2d-6b7b60876b01/1c45bcec-c84e-576c-b0fa-9e165590ff38?original_uri=https%3A%2F%2Fwww.hauzerenpartners.com%2Fimg%2Frealestate%2F248447302.jpg&width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/venlo/71f9cd1b/zolastraat",
     "provider": "Pararius",
     "date_scraped": "2025-11-02"
   },
@@ -1532,18 +1580,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/7380aef3-ceff-5d86-a829-9302ba85c3fc/3cd26450a995a0109465ae2cb3d73acb.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/hippolytushoef/7380aef3/zandburen",
-    "provider": "Pararius",
-    "date_scraped": "2025-11-02"
-  },
-  {
-    "title": "Fazantstraat",
-    "price": 390000,
-    "address": "6658 GC Beneden-Leeuwen (Kern Beneden-Leeuwen)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/d27810a5-3048-5bd2-9036-127490762529/a7837e91-ca93-57a8-8491-5d953c68a3f5?original_uri=https%3A%2F%2Fcloud01.topsite.nl%2Fremax.nl%2Fproperty%2F3075%2F250314530-142101_1024x768_fit.jpg.webp&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/beneden-leeuwen/d27810a5/fazantstraat",
     "provider": "Pararius",
     "date_scraped": "2025-11-02"
   },
@@ -1748,42 +1784,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/943de113-85a7-5b98-8d18-1ed8f2c4bc35/d012dd1c-29ce-532a-967c-0015ed9ba1f8?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F236330916.webp%3Fcheck%3Dsha256%253Ab38e805955bddafe0f076fb63829c4ff6fb2df9f9dc3fe47cc2664780b044ef2%26resize%3D4%26selected%3D236330916%23foto236330916&width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/putte/943de113/parklaan",
-    "provider": "Pararius",
-    "date_scraped": "2025-11-02"
-  },
-  {
-    "title": "Cardium",
-    "price": 265000,
-    "address": "4318 TS Brouwershaven (Verspreide huizen Brouwershaven)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/b451404b-b005-5a3e-84ba-be283ed649f4/17809bdd-cdeb-5504-8aa2-c7f0fd4bdcd4?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F215957265.webp%3Fcheck%3Dsha256%253Aab346c54b083bb3a00b1d250c2129120626e0a2ec7babf65ade244a2602f850b%26resize%3D4%26selected%3D215957265%23foto215957265&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/brouwershaven/b451404b/cardium",
-    "provider": "Pararius",
-    "date_scraped": "2025-11-02"
-  },
-  {
-    "title": "Ploegdijk",
-    "price": 249500,
-    "address": "7241 SC Lochem (Verspreide huizen Het Veen en Grote Veld)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/b8e992c5-9dd5-5ed7-97f0-bf08a8a0501d/7ffbd73a-16e1-55c3-9c84-288aef6832bf?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F212666787.webp%3Fcheck%3Dsha256%253Af66233fb1d993986e6246a42d939ac919074d1861a59fd01f72d4d8986e166fd%26resize%3D4%26selected%3D212666787%23foto212666787&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/lochem/b8e992c5/ploegdijk",
-    "provider": "Pararius",
-    "date_scraped": "2025-11-02"
-  },
-  {
-    "title": "Ploegdijk",
-    "price": 315000,
-    "address": "7241 SC Lochem (Verspreide huizen Het Veen en Grote Veld)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/132b50cf-1be1-5189-89b6-fbb7cfd71b22/9ebaf860-9ecf-583a-b78d-cc08f6566d46?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F229214072.webp%3Fcheck%3Dsha256%253A8f801efd0421d087a0558c8e4dd7631344e144336de86dc5759502a8a5ea8d17%26resize%3D4%26selected%3D229214072%23foto229214072&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/lochem/132b50cf/ploegdijk",
     "provider": "Pararius",
     "date_scraped": "2025-11-02"
   }
