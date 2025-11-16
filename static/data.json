@@ -1,5 +1,53 @@
 [
   {
+    "title": "Kampstraat 40",
+    "price": 415000,
+    "address": "5712 CN Someren (Someren-Eind)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5e81f33a-7b28-5490-ad60-f45cfc2b04a8/9ab29900824d7f4e101a59dd83d72dc9.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/someren/5e81f33a/kampstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-11-16"
+  },
+  {
+    "title": "President Kennedystraat 58",
+    "price": 315000,
+    "address": "6451 AW Schinveld (Schinveld)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/9d0d35c5-f5e7-5779-a9b7-2d986d951821/c182cc4a4e991fd9920a3f57053f6a33.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/schinveld/9d0d35c5/president-kennedystraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-11-16"
+  },
+  {
+    "title": "Moselborg 69",
+    "price": 339000,
+    "address": "6228 BK Maastricht (De Heeg)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/19524958-7cfb-57c3-bf55-a441e07d7528/a04b86fa49db0eedf67ea96200b37ce1.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/maastricht/19524958/moselborg",
+    "provider": "Pararius",
+    "date_scraped": "2025-11-16"
+  },
+  {
+    "title": "Carmelstraat 39",
+    "price": 275000,
+    "address": "6222 BV Maastricht (Limmel)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/866b762c-0c0f-5188-8d5a-38b99f3f060f/9536b371f97bcea7e805d333f87440bb.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/maastricht/866b762c/carmelstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-11-16"
+  },
+  {
     "title": "Händellaan",
     "price": 400000,
     "address": "4102 AD Culemborg (Ter Weijde Componistenbuurt)",
@@ -1652,54 +1700,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/52f026b6-6ea6-58f2-9bca-5a9feaf6acb5/091ed1f547f737cae413edfa4290fffe.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/terheijden/52f026b6/duvenvoordestraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-11-16"
-  },
-  {
-    "title": "Saint-Saensgracht",
-    "price": 435000,
-    "address": "1323 CX Almere (Muziekwijk Z.-Oost)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/417dd78d-5b8c-51dc-a7c6-3de006b06641/9a1b4b02-43eb-5e77-aead-1ce4243eb178?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F253297050.webp%3Fcheck%3Dsha256%253A9e841e3d2c791e19dd171c93c1ff68c08d33759aec43bbd390956b9b3b1c6d52%26resize%3D4%26selected%3D253297050%23foto253297050&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/almere/417dd78d/saint-saensgracht",
-    "provider": "Pararius",
-    "date_scraped": "2025-11-16"
-  },
-  {
-    "title": "Merwedeweg 25",
-    "price": 375000,
-    "address": "2953 XK Alblasserdam (Nieuw Kinderdijk)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1ca2dd21-f92e-52a4-99cf-7c63ce89a1ba/aac9c34e9ead83f5206fc93c520951ff.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/alblasserdam/1ca2dd21/merwedeweg",
-    "provider": "Pararius",
-    "date_scraped": "2025-11-16"
-  },
-  {
-    "title": "Monnikenmoer 22",
-    "price": 410000,
-    "address": "4714 HR Sprundel (Sprundel)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/040c8291-2034-5e7e-8b69-728b1b845eb8/e53a0064ba200b2bd6289bcc630b6632.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/sprundel/040c8291/monnikenmoer",
-    "provider": "Pararius",
-    "date_scraped": "2025-11-16"
-  },
-  {
-    "title": "Lange Meer",
-    "price": 450000,
-    "address": "3645 WV Vinkeveen (Zuiderwaard-Westerheul)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/9cb1f8ae-e14b-50f3-bdee-cfa2646d56ce/06b55c94-b2e4-58a0-97d2-b00396fa052c?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F251185236.webp%3Fcheck%3Dsha256%253A8567fb65fee6df6b86a457db4518e3d07d551a1a0eee5a51ec1cf13c532aca19%26resize%3D4%26selected%3D251185236%23foto251185236&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/vinkeveen/9cb1f8ae/lange-meer",
     "provider": "Pararius",
     "date_scraped": "2025-11-16"
   }
