@@ -1,5 +1,17 @@
 [
   {
+    "title": "Spoorstraat 64",
+    "price": 299000,
+    "address": "4541 AL Sluiskil (Kern Sluiskil)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c057b27a-c7d5-5983-bde3-8949bef1b9b8/1d230eb95ed15c287d9f939c14f87620.png?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/sluiskil/c057b27a/spoorstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-11-30"
+  },
+  {
     "title": "Beethovenhof",
     "price": 200000,
     "address": "4536 AE Terneuzen (Zuiderpark)",
@@ -876,18 +888,6 @@
     "date_scraped": "2025-11-30"
   },
   {
-    "title": "Orvallaan 36",
-    "price": 439000,
-    "address": "5628 WS Eindhoven (Tempel)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/86f31021-fbff-59df-ae04-31194a5b8c9e/7166f6a5902d65270d27cc4fa55d635a.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/eindhoven/86f31021/orvallaan",
-    "provider": "Pararius",
-    "date_scraped": "2025-11-30"
-  },
-  {
     "title": "Tarantostraat 23",
     "price": 449000,
     "address": "5632 RD Eindhoven (Heesterakker)",
@@ -896,6 +896,18 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/344ed02e-aa69-5cde-932a-a8bddb2d5913/61b62dcaecd350594e23c11cae7f01dd.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/eindhoven/344ed02e/tarantostraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-11-30"
+  },
+  {
+    "title": "Orvallaan 36",
+    "price": 439000,
+    "address": "5628 WS Eindhoven (Tempel)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/86f31021-fbff-59df-ae04-31194a5b8c9e/7166f6a5902d65270d27cc4fa55d635a.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/eindhoven/86f31021/orvallaan",
     "provider": "Pararius",
     "date_scraped": "2025-11-30"
   },
@@ -1748,18 +1760,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/fc4fb91e-0eab-5b71-9dae-5f74c6221211/b774870d96af05ed6e2eb8c5cc215a5d.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/sittard/fc4fb91e/alex-schaepkensstraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-11-30"
-  },
-  {
-    "title": "Lijsbeth Tijsweg 7 69",
-    "price": 179950,
-    "address": "1647 LE Berkhout (Berkhout Verspreide huizen Zuid)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/b6fc65a2-984f-5b48-b826-9781695fca08/3c493e826941b2ec9a80d55ea0b34bb6.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/berkhout/b6fc65a2/lijsbeth-tijsweg",
     "provider": "Pararius",
     "date_scraped": "2025-11-30"
   }
