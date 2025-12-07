@@ -1,5 +1,29 @@
 [
   {
+    "title": "Dr de Bruijnlaan 7",
+    "price": 349000,
+    "address": "4631 CW Hoogerheide (Hoogerheide)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ff15db9f-1702-5f49-b00d-32e806a238a1/cb27feac01a661c74ddd7a782e308bc1.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/hoogerheide/ff15db9f/dr-de-bruijnlaan",
+    "provider": "Pararius",
+    "date_scraped": "2025-12-07"
+  },
+  {
+    "title": "Bosstraat 51",
+    "price": 298000,
+    "address": "6114 AV Susteren (Heide)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a8bcac31-72aa-5eaf-96db-371727250e76/5fef490a710d1f3fdcee9dcd8ff4f68e.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/susteren/a8bcac31/bosstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-12-07"
+  },
+  {
     "title": "Akerstraat 153 X 131",
     "price": 289000,
     "address": "6445 CP Brunssum (Brunssumer Heide)",
@@ -1748,30 +1772,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/63a9c2db-f50c-5cdd-a092-238b76bf9668/def83a3c2e005a9ac6b9c720b7fa8319.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/dodewaard/63a9c2db/hoge-hofstraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-12-07"
-  },
-  {
-    "title": "Jaspersstraat",
-    "price": 415000,
-    "address": "1504 GB Zaandam (Poelenburg)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/35697282-0e96-5a32-9f67-ab1e4be0a1d2/b25db65d85974c6b1cf7e470f707696d.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/zaandam/35697282/jaspersstraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-12-07"
-  },
-  {
-    "title": "Van Nispenstraat 15",
-    "price": 425000,
-    "address": "4651 XH Steenbergen (Welberg)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fbcfe0ff-e426-5963-ba5b-c023b73598c3/00ca9f94f5630e9815720d8d8ee0d3ae.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/steenbergen-nb/fbcfe0ff/van-nispenstraat",
     "provider": "Pararius",
     "date_scraped": "2025-12-07"
   }
