@@ -210,7 +210,7 @@
     "size": 50.0,
     "energy_label": "Onbekend",
     "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/313263da-ee22-525b-930e-4f261bc298c5/017ecc6b1d954dd6615b6d7f5228f227.jpg?width=600&auto=webp",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/313263da-ee22-525b-930e-4f261bc298c5/606fb5663e1303c72f59a7fc6e355fe8.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/geleen/313263da/eberhardstraat",
     "provider": "Pararius",
     "date_scraped": "2025-12-21"
@@ -492,18 +492,6 @@
     "date_scraped": "2025-12-21"
   },
   {
-    "title": "Telgenhöfke 2 A",
-    "price": 305000,
-    "address": "7591 LV Denekamp (Janskamp)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/164e38ce-7446-5329-a0a5-bbfa8942c1b4/684a7644f03334d6778896b96a0b20db.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/denekamp/164e38ce/telgenhoefke",
-    "provider": "Pararius",
-    "date_scraped": "2025-12-21"
-  },
-  {
     "title": "Telgenhöfke 8 A",
     "price": 275000,
     "address": "7591 LV Denekamp (Janskamp)",
@@ -512,6 +500,18 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/4f4e8b42-e7de-5043-a471-352188a9d634/66663c4c7ef34fb6a486069ab0438f1f.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/denekamp/4f4e8b42/telgenhoefke",
+    "provider": "Pararius",
+    "date_scraped": "2025-12-21"
+  },
+  {
+    "title": "Telgenhöfke 2 A",
+    "price": 305000,
+    "address": "7591 LV Denekamp (Janskamp)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/164e38ce-7446-5329-a0a5-bbfa8942c1b4/684a7644f03334d6778896b96a0b20db.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/denekamp/164e38ce/telgenhoefke",
     "provider": "Pararius",
     "date_scraped": "2025-12-21"
   },
@@ -1213,18 +1213,6 @@
   },
   {
     "title": "Rekerlanden",
-    "price": 159000,
-    "address": "1749 BJ Warmenhuizen (Schoorldam)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/914fcf2f-708d-5006-84ce-a09d59b17278/011c4995-c479-50e3-989f-4167dd2ea093?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F243614396.webp%3Fcheck%3Dsha256%253Ae299b22ec0b04b7a71998e81596a189a7d30ccea50cea22c9756a8b5424efb24%26resize%3D4%26selected%3D243614396%23foto243614396&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/warmenhuizen/914fcf2f/rekerlanden",
-    "provider": "Pararius",
-    "date_scraped": "2025-12-21"
-  },
-  {
-    "title": "Rekerlanden",
     "price": 167500,
     "address": "1749 DW Warmenhuizen (Schoorldam)",
     "size": 50.0,
@@ -1232,6 +1220,18 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/eb454968-6eaf-5b6d-a286-55c0a73f07e4/24e90ba5-46d6-5546-9778-02e08aab2722?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F227837868.webp%3Fcheck%3Dsha256%253A699ee92e5bed3b6e18306ced0920cecdcb8ff00c1d72030ca0ea7f84d499ef61%26resize%3D4%26selected%3D227837868%23foto227837868&width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/warmenhuizen/eb454968/rekerlanden",
+    "provider": "Pararius",
+    "date_scraped": "2025-12-21"
+  },
+  {
+    "title": "Rekerlanden",
+    "price": 159000,
+    "address": "1749 BJ Warmenhuizen (Schoorldam)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/914fcf2f-708d-5006-84ce-a09d59b17278/011c4995-c479-50e3-989f-4167dd2ea093?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F243614396.webp%3Fcheck%3Dsha256%253Ae299b22ec0b04b7a71998e81596a189a7d30ccea50cea22c9756a8b5424efb24%26resize%3D4%26selected%3D243614396%23foto243614396&width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/warmenhuizen/914fcf2f/rekerlanden",
     "provider": "Pararius",
     "date_scraped": "2025-12-21"
   },
