@@ -1,5 +1,65 @@
 [
   {
+    "title": "Sperwerhorst 24",
+    "price": 390000,
+    "address": "6043 RP Roermond (Hoogvonderen)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/dc54b9a1-4c6b-5d6b-b90c-bd856492b0f1/1e3649cf6524f0501a995f1d01a8de16.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/roermond/dc54b9a1/sperwerhorst",
+    "provider": "Pararius",
+    "date_scraped": "2025-12-31"
+  },
+  {
+    "title": "Prinses Beatrixstraat 21 b",
+    "price": 359000,
+    "address": "7475 AP Markelo (Markelo)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/4b45e2c1-f303-5e16-baba-60becb790300/afff0e8e0cc2ec22dc431f29166534f7.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/markelo/4b45e2c1/prinses-beatrixstraat",
+    "provider": "Pararius",
+    "date_scraped": "2025-12-31"
+  },
+  {
+    "title": "Teylingen 51",
+    "price": 450000,
+    "address": "2261 XR Leidschendam (Duivenvoorde)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5be5ee22-a294-59ca-ab4c-1d4db45814b3/0281389ecc6eaaf71c4748bf33b99d43.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/leidschendam/5be5ee22/teylingen",
+    "provider": "Pararius",
+    "date_scraped": "2025-12-31"
+  },
+  {
+    "title": "Rijsbergsebaan 13",
+    "price": 320000,
+    "address": "4836 MC Breda (Hazeldonk)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/3d5510b1-a1a9-52a1-ada8-91a3565c6d97/ca5a4a3e8932be57172e0d2f262f9e85.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/breda/3d5510b1/rijsbergsebaan",
+    "provider": "Pararius",
+    "date_scraped": "2025-12-31"
+  },
+  {
+    "title": "Doorzwin 1232",
+    "price": 315000,
+    "address": "1788 KD Julianadorp (Doorzwin)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/09186c15-e5fd-521a-9796-66013a08ec08/466260b7c276c5c60e3b831127b7f9f2.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/julianadorp/09186c15/doorzwin",
+    "provider": "Pararius",
+    "date_scraped": "2025-12-31"
+  },
+  {
     "title": "Herdersveld",
     "price": 400000,
     "address": "5665 JS Geldrop (Coevering)",
@@ -1692,18 +1752,6 @@
     "date_scraped": "2025-12-31"
   },
   {
-    "title": "Telgenhöfke 2 A",
-    "price": 305000,
-    "address": "7591 LV Denekamp (Janskamp)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/164e38ce-7446-5329-a0a5-bbfa8942c1b4/684a7644f03334d6778896b96a0b20db.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/denekamp/164e38ce/telgenhoefke",
-    "provider": "Pararius",
-    "date_scraped": "2025-12-31"
-  },
-  {
     "title": "Telgenhöfke 8 A",
     "price": 275000,
     "address": "7591 LV Denekamp (Janskamp)",
@@ -1712,54 +1760,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/4f4e8b42-e7de-5043-a471-352188a9d634/66663c4c7ef34fb6a486069ab0438f1f.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/denekamp/4f4e8b42/telgenhoefke",
-    "provider": "Pararius",
-    "date_scraped": "2025-12-31"
-  },
-  {
-    "title": "Veersemeer",
-    "price": 350000,
-    "address": "1509 JP Zaandam (Kalf)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/6a6263b6-9440-5cfe-9243-51a6e1ef107b/27868dd7-431b-5d8e-b254-3a21e6b2ebdb?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F257632552.webp%3Fcheck%3Dsha256%253A4d679bc86d948081183119dd64bc6be5034cee12ad61973f55f4d9e49465aa91%26resize%3D4%26selected%3D257632552%23foto257632552&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/zaandam/6a6263b6/veersemeer",
-    "provider": "Pararius",
-    "date_scraped": "2025-12-31"
-  },
-  {
-    "title": "Europastraat",
-    "price": 264000,
-    "address": "4671 ET Dinteloord (Dinteloord)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/7bea89d1-3197-5203-aac9-9199fb0b9e48/f3e6ce7f-8cb7-5e39-aa0b-e29e0a9bce94?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F255268664.webp%3Fcheck%3Dsha256%253Ac0ea5d093ced81c6f368db5cf2978df5b94139d987363444ec9d65b32ecae54b%26resize%3D4%26selected%3D255268664%23foto255268664&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/dinteloord/7bea89d1/europastraat",
-    "provider": "Pararius",
-    "date_scraped": "2025-12-31"
-  },
-  {
-    "title": "Hoogenboomlaan 11 A4",
-    "price": 310000,
-    "address": "4325 DD Renesse (Hoogenboomlaan)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/916dc8c2-a9d3-5827-a7ee-9bad8176be99/1c4eb9b22d23c4c8e896a92442e88bd6.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/renesse/916dc8c2/hoogenboomlaan",
-    "provider": "Pararius",
-    "date_scraped": "2025-12-31"
-  },
-  {
-    "title": "Grote Beer 8 033",
-    "price": 175000,
-    "address": "4501 ER Oostburg (Oostburg)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/3d71892c-7fbb-51c0-99b6-7bdf2497d9eb/86466807252b0406be124f4a5b2d538a.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/appartement-te-koop/oostburg/3d71892c/grote-beer",
     "provider": "Pararius",
     "date_scraped": "2025-12-31"
   }
