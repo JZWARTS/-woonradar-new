@@ -1,5 +1,17 @@
 [
   {
+    "title": "de Haymestraat 24",
+    "price": 275000,
+    "address": "6269 CS Margraten (Margraten)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/45b76be8-e6f8-55b0-8831-835c46d19c98/7ae278b638a7a8460df5a600f4578313.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/margraten/45b76be8/de-haymestraat",
+    "provider": "Pararius",
+    "date_scraped": "2026-01-18"
+  },
+  {
     "title": "Edward Jennerstraat",
     "price": 259000,
     "address": "4631 LA Hoogerheide (Hoogerheide)",
@@ -116,18 +128,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/14798e49-aa05-5b79-883d-6e02b8209119/02ba4712-e0d4-5a2e-b130-62fd77225983?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F259465168.webp%3Fcheck%3Dsha256%253Ab9bc6056ca1b7290bb2a67c9dbb12363501360d40da09fc07ab628c293de0751%26resize%3D4%26selected%3D259465168%23foto259465168?sig=9788b5063d0132ef239ba5579489948c0e4cb91066d7bc523dde015e324576f0&width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/westeremden/14798e49/huizingerweg",
-    "provider": "Pararius",
-    "date_scraped": "2026-01-18"
-  },
-  {
-    "title": "Frans Duwaerstraat",
-    "price": 450000,
-    "address": "1318 AA Almere (Verzetswijk West)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/7db6b5f6-2144-5395-850f-e45f0b7c753a/ee035abc-406b-551c-9329-94ee0f490d2b?original_uri=https%3A%2F%2Fwww.vanderlinden.nl%2Fmedia_bb%2Fthumbs%2F1200x800%2F2568593.jpg?sig=2be4d7d2b0c7e2f23d30ff4644eb790de551b6852d97ecfa79dbabed60777594&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/almere/7db6b5f6/frans-duwaerstraat",
     "provider": "Pararius",
     "date_scraped": "2026-01-18"
   },
@@ -679,7 +679,7 @@
     "energy_label": "Onbekend",
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/c6a425e3-c25b-5932-969f-5920836519be/714ef2e2-3d17-559e-9571-dd5322e25b48?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F257708996.webp%3Fcheck%3Dsha256%253A029515892d7a3d2d8cefd9faf5d0dba1b2220be4f65aec06946754ccd66e82fd%26resize%3D4%26selected%3D257708996%23foto257708996?sig=922e3b610b3046ef87568e2b55e140c29d71e08b6d8c2c15ad3c876c3551238f&width=600&auto=webp",
-    "link": "https://www.pararius.nl/appartement-te-koop/roosendaal/c6a425e3/jasmijnberg",
+    "link": "https://www.pararius.nl/huis-te-koop/roosendaal/c6a425e3/jasmijnberg",
     "provider": "Pararius",
     "date_scraped": "2026-01-18"
   },
