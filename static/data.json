@@ -1,5 +1,29 @@
 [
   {
+    "title": "Newtonstraat 45",
+    "price": 229000,
+    "address": "4532 KG Terneuzen (Serlippenspolder)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/5ad20b2f-3ae6-5115-8927-e07625000113/47b317bf02cbd6b3ae7c555d1d93b61b.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/terneuzen/5ad20b2f/newtonstraat",
+    "provider": "Pararius",
+    "date_scraped": "2026-02-15"
+  },
+  {
+    "title": "Beatrixstraat 19",
+    "price": 275000,
+    "address": "6155 KV Puth (Puth)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2f0c0ef0-e271-5d85-8d56-3fa86a4df746/9f218fcf35e5125223be101150e0f9a0.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/puth/2f0c0ef0/beatrixstraat",
+    "provider": "Pararius",
+    "date_scraped": "2026-02-15"
+  },
+  {
     "title": "Julianalaan 64",
     "price": 450000,
     "address": "6124 AJ Papenhoven (Papenhoven)",
@@ -1255,7 +1279,7 @@
     "energy_label": "Onbekend",
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/c66d81d4-a19d-5d6d-b4e9-fc994fe49787/bd407e5b-d059-5dbc-8f4d-26d6a79ac721?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F263530652.webp%3Fcheck%3Dsha256%253Aa4b909960227609c76a10ed4d8eb4371051bbe0fa0bf30e66adf56b3ce89fa52%26resize%3D4%26selected%3D263530652%23foto263530652?sig=add6e3fd853bec28588e99bdbc89bdf4b0c47a203a6d050ac65977689bfe7edd&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/olst/c66d81d4/prinses-irenestraat",
+    "link": "https://www.pararius.nl/appartement-te-koop/olst/c66d81d4/prinses-irenestraat",
     "provider": "Pararius",
     "date_scraped": "2026-02-15"
   },
@@ -1736,30 +1760,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/4b02f780-0024-52fc-aa0b-00adfde144f0/110d156f-f2bb-5576-9145-cb7f37ab1ff2?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F229574566.webp%3Fcheck%3Dsha256%253A57ec4318b164ca75e636f318d4f0d78c090d66a6854e93e5cb69a6deb97a6d6d%26resize%3D4%26selected%3D229574566%23foto229574566?sig=67d40a81e85e44b3cbcc29a6342764460fc83f60ce3872155f06b1b30ddbca78&width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/putte/4b02f780/pastoor-de-witstraat",
-    "provider": "Pararius",
-    "date_scraped": "2026-02-15"
-  },
-  {
-    "title": "Provincienlaan 2",
-    "price": 299500,
-    "address": "9642 GX Veendam (Veendam-Sorghvliet)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8b4074cc-dec9-56b6-9315-ee1dbd171491/4c5c1edd9b061cc99b14b15a8624f08d.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/veendam/8b4074cc/provincienlaan",
-    "provider": "Pararius",
-    "date_scraped": "2026-02-15"
-  },
-  {
-    "title": "Accordeonstraat 47",
-    "price": 430000,
-    "address": "1312 HB Almere (Muziekwijk N.-Oost)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0c3a1c0c-8c64-5f24-a1f0-760a39562b33/da34765d42a1d6d91f419f93c5d0781b.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/almere/0c3a1c0c/accordeonstraat",
     "provider": "Pararius",
     "date_scraped": "2026-02-15"
   }
