@@ -1,5 +1,77 @@
 [
   {
+    "title": "Weegbree 5",
+    "price": 325000,
+    "address": "7443 HA Nijverdal (Kruidenwijk Oost)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/943abfe0-292c-5878-bcab-9f313f8e2042/dc94140b448d20a29861544d0695f1eb.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/nijverdal/943abfe0/weegbree",
+    "provider": "Pararius",
+    "date_scraped": "2026-02-21"
+  },
+  {
+    "title": "Burgemeester Elkhuizenlaan 48",
+    "price": 419000,
+    "address": "4661 CL Halsteren (De Beek)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/cdb52e20-6610-58c3-a04e-9b738f19acbf/c5e0e3eaf2b229c87749a0bd1f428df6.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/halsteren/cdb52e20/burgemeester-elkhuizenlaan",
+    "provider": "Pararius",
+    "date_scraped": "2026-02-21"
+  },
+  {
+    "title": "Steenakker 48",
+    "price": 309000,
+    "address": "6116 CN Roosteren (Roosteren)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/c4de71d7-69d9-5a4e-b9f3-bcdf403331b8/fd41e3cd21109cec356608f20487d58b.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/roosteren/c4de71d7/steenakker",
+    "provider": "Pararius",
+    "date_scraped": "2026-02-21"
+  },
+  {
+    "title": "Keiwierde 137",
+    "price": 400000,
+    "address": "1353 NV Almere (Keiwierde en Oldewierde)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/6bb45c06-b238-5373-a7c2-777a08853f10/a2d1ba90-c2f8-52e9-9322-52808077ea0c?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F264781618.webp%3Fcheck%3Dsha256%253A214c39826d4b75aa73830331014604ceb61cd6ab43ab21601e38f5d52664ae77%26resize%3D4%26selected%3D264781618%23foto264781618?sig=466ba4799bf224d4ce21e38cd166a5e93d6ae344f3fcf1da567c20fb21662f77&width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/almere/6bb45c06/keiwierde",
+    "provider": "Pararius",
+    "date_scraped": "2026-02-21"
+  },
+  {
+    "title": "Olthorst 14",
+    "price": 389000,
+    "address": "6714 KS Ede (De Horsten)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/51a1dc86-30a5-5a22-9021-afd69fb0d888/7d452b88-cfac-50a7-b2a6-6a87917df58e?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F262174450.webp%3Fcheck%3Dsha256%253A1ab7794356cd15e007cb35b8fc3cb57e2f2be7bc63ca49a7629c40481b436886%26resize%3D4%26selected%3D262174450%23foto262174450?sig=59e84209cbf0e1a6dd9dff0ef04708234db29d2ea07db8f3ddbbbc13c6dd2644&width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/ede/51a1dc86/olthorst",
+    "provider": "Pararius",
+    "date_scraped": "2026-02-21"
+  },
+  {
+    "title": "Victoriastraat 13",
+    "price": 450000,
+    "address": "6162 EA Geleen (Geleen-Noord)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/6581f387-ce43-5eae-bd12-e80feeae97e5/d9ea0a67-805b-5d70-b97f-a3bfb92875dd?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F250366260.webp%3Fcheck%3Dsha256%253Ac897bfde7b76d7216de84524ba85609519a5f04f696fe04e8ade5a17afb4e337%26resize%3D4%26selected%3D250366260%23foto250366260?sig=de5b154a5d76caf7bbb646e340396302cacc629794f65db2e9d6672ae04cf55c&width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/geleen/6581f387/victoriastraat",
+    "provider": "Pararius",
+    "date_scraped": "2026-02-21"
+  },
+  {
     "title": "Roothaertstraat 33",
     "price": 399500,
     "address": "5751 XP Deurne (Koolhof-Noord)",
@@ -384,18 +456,6 @@
     "date_scraped": "2026-02-21"
   },
   {
-    "title": "De Savornin Lohmanlaan 23",
-    "price": 415000,
-    "address": "4384 KC Vlissingen (Paauwenburg West)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/5079cfb0-4e6f-5ca7-b935-382e8857b557/b2c6b806-116c-5520-9268-5ae4a44bd5ce?original_uri=https%3A%2F%2Fcloud01.topsite.nl%2Ftpmakelaars.nl-2024%2Fproperty%2F537%2F20363514-15258_945x625_fit.jpg.webp?sig=f62c8d5233daf1318ab27327b853928dc413fb13a0f61b20a8ad45d55d1ff76a&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/vlissingen/5079cfb0/de-savornin-lohmanlaan",
-    "provider": "Pararius",
-    "date_scraped": "2026-02-21"
-  },
-  {
     "title": "Breitnerlaan 10",
     "price": 275000,
     "address": "5702 TV Helmond (Bloemvelden)",
@@ -704,18 +764,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/5e654e07-fe57-5087-82f4-18a417227d6d/e00c6d50-9163-5702-9ac0-ffde73cdcc5e?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F264079602.webp%3Fcheck%3Dsha256%253Af6506dc4abf7f00209bfadc3ffacdf560009e0790a3c2eb85195cfea82efa91b%26resize%3D4%26selected%3D264079602%23foto264079602?sig=0c54e129d82b407573119c6227dfe00b9c356cb7464d478b5422127801867074&width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/oud-gastel/5e654e07/angel",
-    "provider": "Pararius",
-    "date_scraped": "2026-02-21"
-  },
-  {
-    "title": "Churchillstraat 1",
-    "price": 435000,
-    "address": "6235 CE Ulestraten (Ulestraten)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/480febfb-d1b1-5146-84c4-ff3d59e21cfa/566d9015-66b9-553e-9b41-7f72b7019d5a?original_uri=https%3A%2F%2Fwww.lassoo.nl%2Ffiles%2Fobject_data%2Fcache%2Fs1024768%2F2026%2F2%2F13872.jpg?sig=df6f205a0d690c67a11479103dc063bd728f95447bcba28f0f6fcf3afca479ee&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/ulestraten/480febfb/churchillstraat",
     "provider": "Pararius",
     "date_scraped": "2026-02-21"
   },
@@ -1724,54 +1772,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/511a3147-2666-553a-beac-8cf4ec22f19d/8e7925ada1d54cc55bf2c2100521f9fb.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/geleen/511a3147/eifel",
-    "provider": "Pararius",
-    "date_scraped": "2026-02-21"
-  },
-  {
-    "title": "Dennenstraat 41",
-    "price": 359000,
-    "address": "1783 GW Den Helder (Duinbuurt)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/8fe63453-439f-51df-95a3-02048e3a7991/a9f178c10927c86ccaec71e44c66a5ef.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/den-helder/8fe63453/dennenstraat",
-    "provider": "Pararius",
-    "date_scraped": "2026-02-21"
-  },
-  {
-    "title": "Kievitstraat 17",
-    "price": 245000,
-    "address": "5932 VM Tegelen (Op de Heide)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/1c8b02d9-346f-55a9-a835-aaafcdaac2f2/9541f2bda38d32d4bc0f882a99ed75e9.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/tegelen/1c8b02d9/kievitstraat",
-    "provider": "Pararius",
-    "date_scraped": "2026-02-21"
-  },
-  {
-    "title": "Emile Seipgensstraat 30",
-    "price": 405000,
-    "address": "6074 EG Melick (Melick)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/a2d8efdb-6d0b-5491-aedf-2665e0a09ccf/0f58bb99e81e4027d4983e98e9045aa5.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/melick/a2d8efdb/emile-seipgensstraat",
-    "provider": "Pararius",
-    "date_scraped": "2026-02-21"
-  },
-  {
-    "title": "Overkroetenlaan 59",
-    "price": 395000,
-    "address": "4823 KD Breda (Overkroeten)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/0e299157-35ec-5071-a60a-0bc9391835ba/0ff759be6135308367ea01f3421cf085.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/breda/0e299157/overkroetenlaan",
     "provider": "Pararius",
     "date_scraped": "2026-02-21"
   }
