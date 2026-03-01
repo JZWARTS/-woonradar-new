@@ -1,5 +1,29 @@
 [
   {
+    "title": "Zwartewaal 4",
+    "price": 369000,
+    "address": "4617 NS Bergen op Zoom (Bergse Plaat)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/ee4423ba-fef7-57dc-be97-2ca9c50ed8d6/f543361b08aa8d42a866b50612158a71.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/bergen-op-zoom/ee4423ba/zwartewaal",
+    "provider": "Pararius",
+    "date_scraped": "2026-03-01"
+  },
+  {
+    "title": "Kloosterstraat 5",
+    "price": 219000,
+    "address": "4521 AP Biervliet (Kern Biervliet)",
+    "size": 50.0,
+    "energy_label": "Onbekend",
+    "garden_terrace": "Nee",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/2d6928cb-cdda-50db-95c2-0a7f8a7bdc69/43ffa93e743b26524a10556d709e7e5d.jpg?width=600&auto=webp",
+    "link": "https://www.pararius.nl/huis-te-koop/biervliet-terneuzen/2d6928cb/kloosterstraat",
+    "provider": "Pararius",
+    "date_scraped": "2026-03-01"
+  },
+  {
     "title": "Moselborg 55",
     "price": 325000,
     "address": "6228 BK Maastricht (De Heeg)",
@@ -666,7 +690,7 @@
     "size": 50.0,
     "energy_label": "Onbekend",
     "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/30883e2c-018f-5581-9140-b42331123aaf/65fb80d8-e687-5101-9654-c0bcee37abf6?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F264776534.webp%3Fcheck%3Dsha256%253A3bf76d3e989bc78d704f070c8ec41f449326f2e463ace12c4247e83b536018c9%26resize%3D4%26selected%3D264776534%23foto264776534?sig=24fbc1eaa52454873b0adb2d311b4cbfddce41198d1ce6bab597ad66d23e4a0f&width=600&auto=webp",
+    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/30883e2c-018f-5581-9140-b42331123aaf/86d4cc20-e651-5a96-967b-b2cde4407882?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F265585530.webp%3Fcheck%3Dsha256%253A2733d10157df666cc331112ad79897fa5b3faca2163534dcaab3d334142687ac%26resize%3D4%26selected%3D265585530%23foto265585530?sig=dd3d489acd18140d506a0056e8c4a6c81949b466ceded57dc047f1a902f622c8&width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/terneuzen/30883e2c/pieter-de-hooghstraat",
     "provider": "Pararius",
     "date_scraped": "2026-03-01"
@@ -1772,30 +1796,6 @@
     "garden_terrace": "Nee",
     "image_url": "https://casco-media-prod.global.ssl.fastly.net/ce1fdb24-4dc3-5abe-ad0e-6fa48684f4d5/ae5f2520f9f004c527ae77ec6eef5cdb.jpg?width=600&auto=webp",
     "link": "https://www.pararius.nl/huis-te-koop/groenlo/ce1fdb24/rembrandtstraat",
-    "provider": "Pararius",
-    "date_scraped": "2026-03-01"
-  },
-  {
-    "title": "Markt 20",
-    "price": 349000,
-    "address": "6191 JH Beek (Beek)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/fad97c45-7fc7-58ba-af39-4ce90fc1802b/074ade2c8668854adf884e8aa319eef6.jpg?width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/beek-lb/fad97c45/markt",
-    "provider": "Pararius",
-    "date_scraped": "2026-03-01"
-  },
-  {
-    "title": "Essendreef 2",
-    "price": 310000,
-    "address": "8355 AW Giethoorn (Giethoorn-Noord kern)",
-    "size": 50.0,
-    "energy_label": "Onbekend",
-    "garden_terrace": "Nee",
-    "image_url": "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/460cde4c-00b6-5ce3-b827-8c58051d3972/434a030d-5a52-59a4-81d6-38d56bc5fb30?original_uri=https%3A%2F%2Fimages.realworks.nl%2Fservlets%2Fimages%2Fmedia.objectmedia%2F265025888.webp%3Fcheck%3Dsha256%253A4d1edf92794d5bc45a3e36dce5a6da5e4f66ad5d4622cd3af4441f8d8d0faf58%26resize%3D4%26selected%3D265025888%23foto265025888?sig=a742b35338eae0a5c72485eaae6656d3a2737eadac62c24fa3046a23d21e7b86&width=600&auto=webp",
-    "link": "https://www.pararius.nl/huis-te-koop/giethoorn/460cde4c/essendreef",
     "provider": "Pararius",
     "date_scraped": "2026-03-01"
   }
